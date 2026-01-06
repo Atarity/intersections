@@ -1,10 +1,51 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<rss version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" version="2.0">
 <channel>
   <title>Пересечения</title>
   <description>Интересные ссылки с комментариями</description>
   <link>https://snnkv.com/</link>
-  <lastBuildDate>Tue, 06 Jan 2026 18:19:20 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 06 Jan 2026 19:20:06 +0000</lastBuildDate>
+<item>
+  <title>Dribbble - Discover the World's Top Designers and Creative Professionals</title>
+  <link>https://dribbble.com</link>
+  <description>Inspiration for our new avatar design.</description>
+  <pubDate>Tue, 06 Jan 2026 19:20:06 +0000</pubDate>
+  <guid>https://dribbble.com</guid>
+</item>
+<item>
+  <title>Lorwyn Eclipsed Revealed | Commander Showcase - YouTube</title>
+  <link>https://www.youtube.com/watch?v=xw8Nr-ZaYqo</link>
+  <description>А как там дела со ссылками на Ютюб?</description>
+  <pubDate>Tue, 06 Jan 2026 19:09:16 +0000</pubDate>
+  <guid>https://www.youtube.com/watch?v=xw8Nr-ZaYqo</guid>
+</item>
+<item>
+  <title>Hoto's Designey Flashlight Duo  - Core77</title>
+  <link>https://www.core77.com/posts/139945/Hotos-Designey-Flashlight-Duo</link>
+  <description>Я просто хочу добавить сюда ещё одну с сылку с большим количеством знаком в комментарии чтобы посмотреть на то, как это будет выглядеть с перенесёнными стркоами.</description>
+  <pubDate>Tue, 06 Jan 2026 19:07:49 +0000</pubDate>
+  <guid>https://www.core77.com/posts/139945/Hotos-Designey-Flashlight-Duo</guid>
+</item>
+<item>
+  <title>The Chompsaw - A Powerful Tool for Kids’ Creation - Make:</title>
+  <link>https://makezine.com/article/maker-news/maker-faire/the-chompsaw-a-powerful-tool-for-kids-creation/</link>
+  <description>Ещё больше тупых ссылок с Make.</description>
+  <pubDate>Tue, 06 Jan 2026 19:01:43 +0000</pubDate>
+  <guid>https://makezine.com/article/maker-news/maker-faire/the-chompsaw-a-powerful-tool-for-kids-creation/</guid>
+</item>
+<item>
+  <title>Vu-Perc 2 video « Gieskes.nl</title>
+  <link>https://gieskes.nl/?archive=Vu-Perc-2-video</link>
+  <description></description>
+  <pubDate>Tue, 06 Jan 2026 19:01:04 +0000</pubDate>
+  <guid>https://gieskes.nl/?archive=Vu-Perc-2-video</guid>
+</item>
+<item>
+  <title>Slashdot: News for nerds, stuff that matters</title>
+  <link>https://slashdot.org</link>
+  <description>Verification link.</description>
+  <pubDate>Tue, 06 Jan 2026 18:59:24 +0000</pubDate>
+  <guid>https://slashdot.org</guid>
+</item>
 <item>
   <title>GitHub - microsoft/vscode: Visual Studio Code</title>
   <link>https://github.com/microsoft/vscode</link>
@@ -102,20 +143,6 @@
   <description>The owner's personal site.</description>
   <pubDate>Tue, 06 Jan 2026 14:14:44 +0000</pubDate>
   <guid>https://snnkv.com</guid>
-</item>
-<item>
-  <title>news.ycombinator.com</title>
-  <link>https://news.ycombinator.com</link>
-  <description>Hacker News - always something to read.</description>
-  <pubDate>Tue, 06 Jan 2026 14:14:44 +0000</pubDate>
-  <guid>https://news.ycombinator.com</guid>
-</item>
-<item>
-  <title>github.com/google/guava</title>
-  <link>https://github.com/google/guava</link>
-  <description>A core Java library from Google.</description>
-  <pubDate>Tue, 06 Jan 2026 14:14:44 +0000</pubDate>
-  <guid>https://github.com/google/guava</guid>
 </item>
 </channel>
 </rss>

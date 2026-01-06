@@ -70,6 +70,7 @@ nobr {
     max-width: 800px;
     font-size: 1.3rem;
     color: #333;
+    padding-bottom: 10px;
 }
 
 a {
@@ -85,23 +86,34 @@ article {
     display: block;
     margin-bottom: 60px;
     padding-bottom: 30px;
-    border-bottom: 1px solid #eee;
+    /*border-bottom: 1px solid #eee;*/
 }
 
 article .entry-title {
     font-size: 1.8rem;
     font-weight: 700;
     display: block;
-    margin-bottom: 5px;
     line-height: 1.2;
+}
+
+article .entry-title a {
+    color: #444;
+    text-decoration: none;
+}
+
+article .entry-title a:hover {
+    color: #444;
 }
 
 article .url {
     font-size: 1.2rem;
     display: inline-block;
-    /* Prevent full-width clickable area */
     margin-bottom: 10px;
-    color: #888;
+    color: #3a77e7;
+}
+
+article .url:hover {
+    color: #db6363;
 }
 
 article .ts {
@@ -111,11 +123,36 @@ article .ts {
     display: block;
 }
 
+article .comment-wrapper {
+    display: flex;
+    align-items: flex-start;
+    gap: 25px;
+    margin-top: 20px;
+}
+
+article .avatar {
+    width: 70px;
+    height: 70px;
+    min-width: 70px;
+    background: #eee;
+    border-radius: 50%;
+    overflow: hidden;
+}
+
+article .avatar img {
+    width: 100%;
+    height: 100%;
+    display: block;
+}
+
 article .comment {
-    font-size: 1.1rem;
+    font-size: 1.3rem;
+    font-weight: 300;
+    font-style: italic;
     line-height: 1.5;
     color: #333;
     max-width: 800px;
+    flex: 1;
 }
 
 footer {
