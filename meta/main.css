@@ -88,11 +88,20 @@ article {
     border-bottom: 1px solid #eee;
 }
 
+article .entry-title {
+    font-size: 1.8rem;
+    font-weight: 700;
+    display: block;
+    margin-bottom: 5px;
+    line-height: 1.2;
+}
+
 article .url {
-    font-size: 1.5rem;
+    font-size: 1.2rem;
     display: inline-block;
     /* Prevent full-width clickable area */
-    margin-bottom: 5px;
+    margin-bottom: 10px;
+    color: #888;
 }
 
 article .ts {

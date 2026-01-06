@@ -1,12 +1,59 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0">
 <channel>
-  <title>INTERSECTIONS</title>
+  <title>Пересечения</title>
+  <description>Интересные ссылки с комментариями</description>
   <link>https://snnkv.com/</link>
-  <description>Collecting and sharing interesting links.</description>
-  <language>en-us</language>
-  <atom:link href="https://snnkv.com/feed.xml" rel="self" type="application/rss+xml" />
-  <lastBuildDate>Tue, 06 Jan 2026 16:58:57 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 06 Jan 2026 18:19:20 +0000</lastBuildDate>
+<item>
+  <title>GitHub - microsoft/vscode: Visual Studio Code</title>
+  <link>https://github.com/microsoft/vscode</link>
+  <description>The code editor we all use.</description>
+  <pubDate>Tue, 06 Jan 2026 18:19:20 +0000</pubDate>
+  <guid>https://github.com/microsoft/vscode</guid>
+</item>
+<item>
+  <title>Hacker News</title>
+  <link>https://news.ycombinator.com</link>
+  <description>Hacker News.</description>
+  <pubDate>Tue, 06 Jan 2026 17:53:45 +0000</pubDate>
+  <guid>https://news.ycombinator.com</guid>
+</item>
+<item>
+  <title>Vu-Perc 2 video  Gieskes.nl</title>
+  <link>https://gieskes.nl/?archive=Vu-Perc-2-video</link>
+  <description></description>
+  <pubDate>Tue, 06 Jan 2026 17:40:59 +0000</pubDate>
+  <guid>https://gieskes.nl/?archive=Vu-Perc-2-video</guid>
+</item>
+<item>
+  <title>Vu-Perc 2 video  Gieskes.nl</title>
+  <link>https://gieskes.nl/?archive=Vu-Perc-2-video</link>
+  <description>Video synth fun.</description>
+  <pubDate>Tue, 06 Jan 2026 17:38:35 +0000</pubDate>
+  <guid>https://gieskes.nl/?archive=Vu-Perc-2-video</guid>
+</item>
+<item>
+  <title>The Chompsaw - A Powerful Tool for Kids’ Creation - Make:</title>
+  <link>https://makezine.com/article/maker-news/maker-faire/the-chompsaw-a-powerful-tool-for-kids-creation/</link>
+  <description>Ещё больше тупых ссылок с Make.</description>
+  <pubDate>Tue, 06 Jan 2026 17:30:32 +0000</pubDate>
+  <guid>https://makezine.com/article/maker-news/maker-faire/the-chompsaw-a-powerful-tool-for-kids-creation/</guid>
+</item>
+<item>
+  <title>The Chompsaw - A Powerful Tool for Kids’ Creation - Make:</title>
+  <link>https://makezine.com/article/maker-news/maker-faire/the-chompsaw-a-powerful-tool-for-kids-creation/</link>
+  <description>Ещё больше тупых ссылок с Make.</description>
+  <pubDate>Tue, 06 Jan 2026 17:29:18 +0000</pubDate>
+  <guid>https://makezine.com/article/maker-news/maker-faire/the-chompsaw-a-powerful-tool-for-kids-creation/</guid>
+</item>
+<item>
+  <title>artsexperience.pro</title>
+  <link>https://artsexperience.pro</link>
+  <description>Exploring artistic experiences.</description>
+  <pubDate>Tue, 06 Jan 2026 17:18:22 +0000</pubDate>
+  <guid>https://artsexperience.pro</guid>
+</item>
 <item>
   <title>theregister.com/2026/01/05/aws_price_increase</title>
   <link>https://www.theregister.com/2026/01/05/aws_price_increase/</link>

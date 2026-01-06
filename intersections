@@ -1,7 +1,7 @@
 #!/bin/sh -e
 
 # Intersections - A simple bash-based static site generator for links
-# Usage: ./intersections url "comment"
+# Usage: ./intersections "url" "comment"
 
 domain="https://snnkv.com/"
 ts=$(date '+%Y-%m-%d')
@@ -17,10 +17,26 @@ fi
 # Normalize URL for display (strip protocols and www)
 url_display=$(echo "$url_original" | sed -E 's|^https?://||; s|^www\.||; s|/$||')
 
+# Fetch title from target page (limited to 5 seconds, follow redirects)
+fetch_title() {
+    title=$(curl -sL --max-time 5 "$1" | xmllint --html --xpath "string(//title)" - 2>/dev/null | tr -d '\r\n' | sed 's/^[[:space:]]*//;s/[[:space:]]*$//')
+    # Cleanup entities and extra whitespace
+    echo "$title" | sed -E 's/<[^>]*>//g; s/&[a-z0-9#]+;//g' | cut -c 1-200
+}
+
+echo "Fetching title for $url_original..."
+page_title=$(fetch_title "$url_original")
+
+# Fallback if title is empty
+if [ -z "$page_title" ]; then
+    page_title="$url_display"
+fi
+
 # Prepare HTML entry for timeline.htm
 echo "<article id='$url_display'>
   <div class='entry-header'>
     <span class='ts'>$ts</span>
+    <h2 class='entry-title'>$page_title</h2>
     <a href='$url_original' class='url' target='_blank'>$url_display</a>
   </div>
   <p class='comment'>$comment</p>
@@ -35,18 +51,16 @@ mv meta/_timeline.htm meta/timeline.htm
 rm -f index.html
 cat meta/header.htm meta/timeline.htm meta/footer.htm > index.html
 
-# Prepare RSS item
-export URL_ORIGINAL="$url_original"
-export URL_DISPLAY="$url_display"
-export COMMENT="$comment"
-export RSS_DATE="$rssdate"
-
-# Simple template substitution
-cat meta/rss_item.tmpl | \
-    sed "s|\$URL_ORIGINAL|$URL_ORIGINAL|g" | \
-    sed "s|\$URL_DISPLAY|$URL_DISPLAY|g" | \
-    sed "s|\$COMMENT|$COMMENT|g" | \
-    sed "s|\$RSS_DATE|$RSS_DATE|g" > meta/rss_last.tmpl
+# Prepare RSS item (inlined echo)
+cat <<EOF > meta/rss_last.tmpl
+<item>
+  <title>$page_title</title>
+  <link>$url_original</link>
+  <description>$comment</description>
+  <pubDate>$rssdate</pubDate>
+  <guid>$url_original</guid>
+</item>
+EOF
 
 # Prepend last RSS item to rss_timeline.tmpl
 touch meta/rss_timeline.tmpl
@@ -55,15 +69,16 @@ mv meta/_rss_timeline.tmpl meta/rss_timeline.tmpl
 
 # Assemble feed.xml (Top 20 items)
 rm -f feed.xml
-(
-  cat meta/rss_header.tmpl
-  echo "  <lastBuildDate>$rssdate</lastBuildDate>"
-  # Take top 20 items (roughly 7 lines per item)
-  awk '/<item>/ { c++ } c <= 20' meta/rss_timeline.tmpl
-  echo "</channel>\n</rss>"
-) > feed.xml
+cat meta/rss_header.tmpl > feed.xml
+echo "  <lastBuildDate>$rssdate</lastBuildDate>" >> feed.xml
+
+# Take top 20 items (roughly 7 lines per item)
+awk '/<item>/ { c++ } c <= 20' meta/rss_timeline.tmpl >> feed.xml
+
+echo "</channel>\n</rss>" >> feed.xml
 
 echo "-------"
+echo "Title: $page_title"
 echo "Link added: $url_display"
 echo "Comment: $comment"
 echo "index.html and feed.xml updated."
