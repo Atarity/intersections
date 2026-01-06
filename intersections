@@ -6,7 +6,6 @@
 domain="https://snnkv.com/"
 ts=$(date '+%Y-%m-%d')
 rssdate=$(date +"%a, %d %b %Y %H:%M:%S +0000")
-
 url_original=$1
 comment=$2
 
