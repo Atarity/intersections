@@ -90,7 +90,8 @@ article {
 
 article .url {
     font-size: 1.5rem;
-    display: block;
+    display: inline-block;
+    /* Prevent full-width clickable area */
     margin-bottom: 5px;
 }
 
