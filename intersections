@@ -1,0 +1,76 @@
+#!/bin/sh -e
+
+# Intersections - A simple bash-based static site generator for links
+# Usage: ./intersections url "comment"
+
+domain="https://snnkv.com/"
+ts=$(date '+%Y-%m-%d')
+rssdate=$(date +"%a, %d %b %Y %H:%M:%S +0000")
+
+url_original=$1
+comment=$2
+
+if [ -z "$url_original" ]; then
+    echo "Usage: ./intersections <url> [comment]"
+    exit 1
+fi
+
+# Normalize URL for display (strip protocols and www)
+url_display=$(echo "$url_original" | sed -E 's|^https?://||; s|^www\.||; s|/$||')
+
+# Prepare HTML entry for timeline.htm
+echo "<article id='$url_display'>
+  <div class='entry-header'>
+    <a href='$url_original' class='url' target='_blank'>$url_display</a>
+    <span class='ts'>$ts</span>
+  </div>
+  <p class='comment'>$comment</p>
+</article>" > meta/last.htm
+
+# Prepend last entry to timeline.htm
+touch meta/timeline.htm
+cat meta/last.htm meta/timeline.htm > meta/_timeline.htm
+mv meta/_timeline.htm meta/timeline.htm
+
+# Assemble index.html
+rm -f index.html
+cat meta/header.htm meta/timeline.htm meta/footer.htm > index.html
+
+# Prepare RSS item
+export URL_ORIGINAL="$url_original"
+export URL_DISPLAY="$url_display"
+export COMMENT="$comment"
+export RSS_DATE="$rssdate"
+
+# Simple template substitution
+cat meta/rss_item.tmpl | \
+    sed "s|\$URL_ORIGINAL|$URL_ORIGINAL|g" | \
+    sed "s|\$URL_DISPLAY|$URL_DISPLAY|g" | \
+    sed "s|\$COMMENT|$COMMENT|g" | \
+    sed "s|\$RSS_DATE|$RSS_DATE|g" > meta/rss_last.tmpl
+
+# Prepend last RSS item to rss_timeline.tmpl
+touch meta/rss_timeline.tmpl
+cat meta/rss_last.tmpl meta/rss_timeline.tmpl > meta/_rss_timeline.tmpl
+mv meta/_rss_timeline.tmpl meta/rss_timeline.tmpl
+
+# Assemble feed.xml (Top 20 items)
+rm -f feed.xml
+(
+  cat meta/rss_header.tmpl
+  echo "  <lastBuildDate>$rssdate</lastBuildDate>"
+  # Take top 20 items (roughly 7 lines per item)
+  awk '/<item>/ { c++ } c <= 20' meta/rss_timeline.tmpl
+  echo "</channel>\n</rss>"
+) > feed.xml
+
+echo "-------"
+echo "Link added: $url_display"
+echo "Comment: $comment"
+echo "index.html and feed.xml updated."
+
+# Auto-commit and push as in "decades"
+if [ -d .git ]; then
+    git status --short && git add -A && git commit -m "Add link: $url_display"
+    # git push # Commented out by default as per user request in decades README dry run
+fi
