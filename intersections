@@ -5,12 +5,18 @@
 
 domain="https://snnkv.com/"
 ts=$(date '+%Y-%m-%d')
-rssdate=$(date +"%a, %d %b %Y %H:%M:%S +0000")
+# Argument parsing
+skip_confirm=0
+if [ "$1" = "-y" ]; then
+    skip_confirm=1
+    shift
+fi
+
 url_original=$1
 comment=$2
 
 if [ -z "$url_original" ]; then
-    echo "Usage: ./intersections <url> [comment]"
+    echo "Usage: ./intersections [-y] <url> [comment]"
     exit 1
 fi
 
@@ -30,6 +36,14 @@ page_title=$(fetch_title "$url_original")
 # Fallback if title is empty
 if [ -z "$page_title" ]; then
     page_title="$url_display"
+fi
+
+# Interactive edit (heavily zsh, macos -dependent)
+if [ "$skip_confirm" -eq 0 ]; then
+    tmp_title=$(mktemp)
+    zsh -c 'title=$1; vared -p "Edit title: " title; echo "$title"' -- "$page_title" > "$tmp_title" < /dev/tty
+    page_title=$(cat "$tmp_title")
+    rm "$tmp_title"
 fi
 
 # Prepare HTML entry for timeline.htm
@@ -59,14 +73,23 @@ mv meta/_timeline.htm meta/timeline.htm
 rm -f index.html
 cat meta/header.htm meta/timeline.htm meta/footer.htm > index.html
 
-# Prepare RSS item (inlined echo)
+# Helper to escape XML special characters
+xml_escape() {
+    echo "$1" | sed 's/&/\&amp;/g; s/</\&lt;/g; s/>/\&gt;/g; s/"/\&quot;/g; s/'"'"'/\&apos;/g'
+}
+
+# Prepare RSS item (inlined echo with XML escaping)
+rss_page_title=$(xml_escape "$page_title")
+rss_url_original=$(xml_escape "$url_original")
+rss_comment=$(xml_escape "$comment")
+
 cat <<EOF > meta/rss_last.tmpl
 <item>
-  <title>$page_title</title>
-  <link>$url_original</link>
-  <description>$comment</description>
+  <title>$rss_page_title</title>
+  <link>$rss_url_original</link>
+  <description>$rss_comment</description>
   <pubDate>$rssdate</pubDate>
-  <guid>$url_original</guid>
+  <guid>$rss_url_original</guid>
 </item>
 EOF
 
