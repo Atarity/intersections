@@ -11,7 +11,8 @@ html {
 }
 
 body {
-    background: #f4f4f4; /* Gray background as requested */
+    background: #fff;
+    /* Changed to white */
     font-family: "Open Sans", sans-serif;
     font-size: 18px;
     font-weight: normal;
@@ -24,8 +25,8 @@ body {
     flex-direction: column;
 }
 
-body > *,
-body main > * {
+body>*,
+body main>* {
     margin-bottom: 30px;
 }
 
@@ -41,7 +42,7 @@ main {
 
 .title {
     display: inline-block;
-    font-size: clamp(2rem, 8vw, 4rem);
+    font-size: clamp(2rem, 8vw, 4.5rem);
     line-height: 0.9;
     padding: 20px 0;
 }
@@ -58,16 +59,17 @@ main {
 
 .title .line-2 {
     font-size: 0.5em;
-    letter-spacing: 0.15em;
-    color: #666;
+    letter-spacing: 0.17em;
+    color: #000;
+    /* Changed to black */
     text-transform: uppercase;
 }
 
-.head-wrapper p {
-    max-width: 700px;
-    font-size: 1.1rem;
-    line-height: 1.6;
-    color: #444;
+.head-wrapper p,
+nobr {
+    max-width: 800px;
+    font-size: 1.3rem;
+    color: #333;
 }
 
 a {
@@ -88,15 +90,14 @@ article {
 
 article .url {
     font-size: 1.5rem;
-    font-weight: 700;
     display: block;
     margin-bottom: 5px;
 }
 
 article .ts {
-    font-size: 0.9rem;
+    font-size: 1.2rem;
     color: #888;
-    margin-bottom: 15px;
+    font-weight: 300;
     display: block;
 }
 
@@ -108,18 +109,19 @@ article .comment {
 }
 
 footer {
-    border-top: 1px solid #ddd;
-    padding: 40px 0;
+    border-top: 1px solid black;
+    /* Match decades exactly */
+    padding-top: 20px;
     margin-top: 60px;
-    font-size: 0.9rem;
-    color: #777;
-    text-align: center;
+    font-size: 14px;
+    color: #000;
 }
 
 @media (max-width: 600px) {
     body {
         padding: 10px;
     }
+
     .title {
         font-size: 2.5rem;
     }

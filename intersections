@@ -20,8 +20,8 @@ url_display=$(echo "$url_original" | sed -E 's|^https?://||; s|^www\.||; s|/$||'
 # Prepare HTML entry for timeline.htm
 echo "<article id='$url_display'>
   <div class='entry-header'>
-    <a href='$url_original' class='url' target='_blank'>$url_display</a>
     <span class='ts'>$ts</span>
+    <a href='$url_original' class='url' target='_blank'>$url_display</a>
   </div>
   <p class='comment'>$comment</p>
 </article>" > meta/last.htm
@@ -69,7 +69,7 @@ echo "Comment: $comment"
 echo "index.html and feed.xml updated."
 
 # Auto-commit and push as in "decades"
-if [ -d .git ]; then
-    git status --short && git add -A && git commit -m "Add link: $url_display"
-    # git push # Commented out by default as per user request in decades README dry run
-fi
+##if [ -d .git ]; then
+##    git status --short && git add -A && git commit -m "Add link: $url_display"
+##    git push # Commented out by default as per user request in decades README dry run
+##fi
