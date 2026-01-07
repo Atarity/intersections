@@ -5,6 +5,7 @@
 
 domain="https://snnkv.com/"
 ts=$(date '+%Y-%m-%d')
+rssdate=$(date -R)
 # Argument parsing
 skip_confirm=0
 if [ "$1" = "-y" ]; then
@@ -27,7 +28,7 @@ url_display=$(echo "$url_original" | sed -E 's|^https?://||; s|^www\.||; s|/$||'
 fetch_title() {
     title=$(curl -sL --max-time 5 "$1" | xmllint --html --xpath "string(//title)" - 2>/dev/null | tr -d '\r\n' | sed 's/^[[:space:]]*//;s/[[:space:]]*$//')
     # Cleanup entities and extra whitespace
-    echo "$title" | sed -E 's/<[^>]*>//g; s/&[a-z0-9#]+;//g' | cut -c 1-200
+    printf '%s\n' "$title" | sed -E 's/<[^>]*>//g; s/&[a-z0-9#]+;//g' | cut -c 1-200
 }
 
 echo "Fetching title for $url_original..."
@@ -55,14 +56,14 @@ if [ -n "$comment" ]; then
   </div>"
 fi
 
-echo "<article id='$url_display'>
+printf "<article id='%s'>
   <div class='entry-header'>
-    <span class='ts'>$ts</span>
-    <h2 class='entry-title'><a href='$url_original' target='_blank'>$page_title</a></h2>
-    <a href='$url_original' class='url' target='_blank'>$url_display</a>
+    <span class='ts'>%s</span>
+    <h2 class='entry-title'><a href='%s' target='_blank'>%s</a></h2>
+    <a href='%s' class='url' target='_blank'>%s</a>
   </div>
-  $comment_html
-</article>" > meta/last.htm
+  %s
+</article>\n" "$url_display" "$ts" "$url_original" "$page_title" "$url_original" "$url_display" "$comment_html" > meta/last.htm
 
 # Prepend last entry to timeline.htm
 touch meta/timeline.htm
@@ -75,7 +76,7 @@ cat meta/header.htm meta/timeline.htm meta/footer.htm > index.html
 
 # Helper to escape XML special characters
 xml_escape() {
-    echo "$1" | sed 's/&/\&amp;/g; s/</\&lt;/g; s/>/\&gt;/g; s/"/\&quot;/g; s/'"'"'/\&apos;/g'
+    printf '%s\n' "$1" | sed 's/&/\&amp;/g; s/</\&lt;/g; s/>/\&gt;/g; s/"/\&quot;/g; s/'"'"'/\&apos;/g'
 }
 
 # Prepare RSS item (inlined echo with XML escaping)
@@ -101,12 +102,12 @@ mv meta/_rss_timeline.tmpl meta/rss_timeline.tmpl
 # Assemble feed.xml (Top 20 items)
 rm -f feed.xml
 cat meta/rss_header.tmpl > feed.xml
-echo "  <lastBuildDate>$rssdate</lastBuildDate>" >> feed.xml
+printf "  <lastBuildDate>%s</lastBuildDate>\n" "$rssdate" >> feed.xml
 
 # Take top 20 items (roughly 7 lines per item)
 awk '/<item>/ { c++ } c <= 20' meta/rss_timeline.tmpl >> feed.xml
 
-echo "</channel>\n</rss>" >> feed.xml
+printf "</channel>\n</rss>\n" >> feed.xml
 
 echo "-------"
 echo "Title: $page_title"

@@ -1,6 +1,5 @@
 # Intersections
-
-A tiny, bash-based static site generator for personal link aggregators (like a private Google Reader).
+A tiny, bash-based static page generator for personal link sharing.
 
 ## Features
 
@@ -12,7 +11,7 @@ A tiny, bash-based static site generator for personal link aggregators (like a p
 
 ## Dependencies
 
-- `bash` (or any POSIX shell)
+- `bash` (`zsh` for interactive mode)
 - `curl` (for fetching pages)
 - `xmllint` (usually part of `libxml2`, for robust HTML parsing)
 - `zsh` (required for the interactive title editor on macOS)
@@ -31,20 +30,3 @@ A tiny, bash-based static site generator for personal link aggregators (like a p
 ```bash
 ./intersections -y "https://example.com" "No prompt needed."
 ```
-
-## Structure
-
-- `intersections`: The core logic script.
-- `index.html`: The generated homepage.
-- `feed.xml`: The RSS 2.0 feed.
-- `meta/`:
-    - `main.css`: The styling logic.
-    - `header.htm` / `footer.htm`: Header and footer snippets.
-    - `timeline.htm`: The raw collection of entry snippets.
-    - `rss_timeline.tmpl`: The raw collection of RSS items.
-    - `rss_header.tmpl`: The XML structure for the feed header.
-    - `avatar-bl.svg`: The default profile avatar.
-
-## Development & Hosting
-
-Since this generates raw HTML/XML, you can host it anywhere (GitHub Pages, Netlify, or a basic Nginx server). To test locally, just open `index.html` in your browser.

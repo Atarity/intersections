@@ -85,7 +85,7 @@ a:hover {
 article {
     display: block;
     margin-bottom: 60px;
-    padding-bottom: 5px;
+    padding-bottom: 10px;
     /*border-bottom: 1px solid #eee;*/
 }
 
@@ -150,6 +150,7 @@ article .comment {
     font-size: 1.3rem;
     font-weight: 300;
     font-style: italic;
+    font-synthesis: none;
     line-height: 1.5;
     color: #333;
     max-width: 800px;
