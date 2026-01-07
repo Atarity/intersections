@@ -114,8 +114,8 @@ echo "Link added: $url_display"
 echo "Comment: $comment"
 echo "index.html and feed.xml updated."
 
-# Auto-commit and push as in "decades"
-##if [ -d .git ]; then
-##    git status --short && git add -A && git commit -m "Add link: $url_display"
-##    git push # Commented out by default as per user request in decades README dry run
-##fi
+# Auto-commit and push
+if [ -d .git ]; then
+    git status --short && git add -A && git commit -m "Add link: $url_display"
+    git push
+fi
