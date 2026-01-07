@@ -128,7 +128,7 @@ article .comment-wrapper {
     display: flex;
     align-items: flex-start;
     gap: 25px;
-    margin-top: 20px;
+    margin-top: 10px;
 }
 
 article .avatar {
