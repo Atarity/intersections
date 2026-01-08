@@ -4,7 +4,15 @@
   <title>Пересечения</title>
   <description>Лента почти полезных ссылок. Я кликал и не пожалел.</description>
   <link>https://snnkv.com/</link>
-  <lastBuildDate>Thu, 08 Jan 2026 21:40:55 +0200</lastBuildDate>
+
+  <lastBuildDate>Thu, 08 Jan 2026 21:56:28 +0200</lastBuildDate>
+<item>
+  <title>example.com/python-test</title>
+  <link>https://example.com/python-test</link>
+  <description>Re-written in Python! 🐍</description>
+  <pubDate>Thu, 08 Jan 2026 21:56:28 +0200</pubDate>
+  <guid>https://example.com/python-test</guid>
+</item>
 <item>
   <title>Obra Dinn&apos;s &quot;pixel art&quot; is actually genius</title>
   <link>https://www.youtube.com/watch?v=_3qzyAHMoUU</link>
