@@ -26,9 +26,9 @@ url_display=$(echo "$url_original" | sed -E 's|^https?://||; s|^www\.||; s|/$||'
 
 # Fetch title from target page (limited to 5 seconds, follow redirects)
 fetch_title() {
-    title=$(curl -sL --max-time 5 "$1" | xmllint --html --xpath "string(//title)" - 2>/dev/null | tr -d '\r\n' | sed 's/^[[:space:]]*//;s/[[:space:]]*$//')
-    # Cleanup entities and extra whitespace
-    printf '%s\n' "$title" | sed -E 's/<[^>]*>//g; s/&[a-z0-9#]+;//g' | cut -c 1-200
+    # Use python3 to extract title and unescape entities robustly (handles UTF-8)
+    title=$(curl -sL --max-time 5 "$1" | python3 -c 'import sys, re, html; m = re.search(r"(?i)<title[^>]*>(.*?)</title>", sys.stdin.read(), re.S); print(html.unescape(m.group(1).strip()) if m else "")' 2>/dev/null | tr -d '\r\n')
+    printf '%s\n' "$title" | cut -c 1-200
 }
 
 echo "Fetching title for $url_original..."

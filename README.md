@@ -10,13 +10,14 @@ Demo: [atarity.github.io/intersections/](https://atarity.github.io/intersections
 - **RSS Feed**: Generates a valid `feed.xml` with XML-escaped content.
 
 ## Dependencies
-- `bash, curl, xmllint` (`zsh` for interactive mode on MacOS)
+- `bash, python3, curl` (`zsh` for interactive mode on MacOS)
 
 ## Usage
 - Add a link (Interactive): `./intersections "https://snnkv.com" "This is a cool site."`
 - Autoconfirm: `./intersections -y "https://diy-synths.snnkv.com" "This also worth to visit."`
 
 ## TODO
-- webmanifest root link broken
+- support utf8 in fetched titles
+- use notch area on ios
 - OG picture (the same for RSS entries)
 - Cleanup header tags: titles, sites, og, favicon, etc
