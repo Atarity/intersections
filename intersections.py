@@ -6,10 +6,8 @@ import re
 import html
 import subprocess
 import urllib.request
+import readline
 from datetime import datetime
-
-# Domain for the site
-DOMAIN = "https://snnkv.com/"
 
 def fetch_title(url):
     """Fetch and extract page title using standard urllib and re."""
@@ -38,6 +36,7 @@ def normalize_url(url):
 def main():
     parser = argparse.ArgumentParser(description="Intersections - A simple static site generator for links")
     parser.add_argument("-y", "--yes", action="store_true", help="Skip interactive title edit")
+    parser.add_argument("-l", "--local", action="store_true", help="Skip git integration")
     parser.add_argument("url", help="Target URL")
     parser.add_argument("comment", nargs="?", default="", help="Optional comment")
     args = parser.parse_args()
@@ -50,9 +49,11 @@ def main():
     page_title = fetch_title(url_original) or url_display
 
     if not args.yes:
-        print(f"Title: {page_title}")
+        print(f"Fetched title: {page_title}")
+        # Add to history so Up Arrow works
+        readline.add_history(page_title)
         try:
-            new_title = input("Edit title (press Enter to keep): ").strip()
+            new_title = input("Edit title (Up to restore fetched): ").strip()
             if new_title:
                 page_title = new_title
         except (KeyboardInterrupt, EOFError):
@@ -141,10 +142,9 @@ def main():
     print(f"Title: {page_title}")
     print(f"Link added: {url_display}")
     print(f"Comment: {comment}")
-    print("index.html and feed.xml updated.")
 
     # Git integration
-    if os.path.isdir(".git"):
+    if not args.local and os.path.isdir(".git"):
         subprocess.run(["git", "status", "--short"])
         subprocess.run(["git", "add", "-A"])
         subprocess.run(["git", "commit", "-m", f"Add link: {url_display}"])

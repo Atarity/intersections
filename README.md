@@ -17,7 +17,5 @@ Demo: [atarity.github.io/intersections/](https://atarity.github.io/intersections
 - Autoconfirm: `./intersections -y "https://diy-synths.snnkv.com" "This also worth to visit."`
 
 ## TODO
-- support utf8 in fetched titles
-- use notch area on ios
 - OG picture (the same for RSS entries)
 - Cleanup header tags: titles, sites, og, favicon, etc
