@@ -9,6 +9,8 @@ import urllib.request
 import readline
 from datetime import datetime
 
+DEPLOYED_TO = "https://atarity.github.io/intersections/"
+
 def fetch_title(url):
     """Fetch and extract page title using standard urllib and re."""
     try:
@@ -109,7 +111,7 @@ def main():
         "<item>\n"
         f"  <title>{html.escape(page_title)}</title>\n"
         f"  <link>{html.escape(url_original)}</link>\n"
-        f"  <description><![CDATA[<img src='meta/interpections.jpg' alt='' /><p>{html.escape(comment)}</p>]]></description>\n"
+        f"  <description><![CDATA[<img src='{DEPLOYED_TO}meta/interpections.jpg' alt='' /><p>{html.escape(comment)}</p>]]></description>\n"
         f"  <pubDate>{rss_date}</pubDate>\n"
         f"  <guid>{html.escape(url_original)}</guid>\n"
         "</item>\n"
