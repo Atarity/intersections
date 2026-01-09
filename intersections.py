@@ -49,11 +49,11 @@ def main():
     page_title = fetch_title(url_original) or url_display
 
     if not args.yes:
-        print(f"Fetched title: {page_title}")
+        print(f"\nFetched title: {page_title}")
         # Add to history so Up Arrow works
         readline.add_history(page_title)
         try:
-            new_title = input("Edit title (Up to restore fetched): ").strip()
+            new_title = input("[Enter] to confirm, [↑/↓] to edit: ").strip()
             if new_title:
                 page_title = new_title
         except (KeyboardInterrupt, EOFError):

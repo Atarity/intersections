@@ -1,20 +1,19 @@
 # Intersections
-A tiny, bash-based static page generator for personal link sharing.
+A tiny static page generator for personal link sharing.
 
 Demo: [atarity.github.io/intersections/](https://atarity.github.io/intersections/)
 
 ## Features
-- **Automatic Title Fetching**: Uses `curl` and `xmllint` to grab `<title>` tags.
-- **Interactive Editing**: Pre-fills a CLI prompt using `zsh`'s `vared` so you can tweak titles before saving.
-- **Non-Interactive Mode**: Use the `-y` flag for automated/bulk additions.
+- **Automatic Title Fetching**
+- **Non-Interactive Mode**: Use the `-y` flag for automated additions.
 - **RSS Feed**: Generates a valid `feed.xml` with XML-escaped content.
 
 ## Dependencies
-- `bash, python3, curl` (`zsh` for interactive mode on MacOS)
+- `python3` with standard libs
 
 ## Usage
-- Add a link (Interactive): `./intersections "https://snnkv.com" "This is a cool site."`
-- Autoconfirm: `./intersections -y "https://diy-synths.snnkv.com" "This also worth to visit."`
+- Add a link (Interactive): `python3 intersections.py "https://snnkv.com" "This is a cool site."`
+- Autoconfirm: `python3 intersections.py -y "https://diy-synths.snnkv.com" "This also worth to visit."`
 
 ## TODO
 - OG picture (the same for RSS entries)
