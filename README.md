@@ -16,5 +16,5 @@ Demo: [atarity.github.io/intersections/](https://atarity.github.io/intersections
 - Autoconfirm: `python3 intersections.py -y "https://diy-synths.snnkv.com" "This also worth to visit."`
 
 ## TODO
-- OG picture (the same for RSS entries)
-- Cleanup header tags: titles, sites, og, favicon, etc
+- Search bar
+- TBD: Semantic tagging (as part of the page fetching)
