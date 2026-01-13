@@ -5,7 +5,14 @@
   <description>Лента почти полезных ссылок. Я кликал и не пожалел.</description>
   <link>https://snnkv.com/</link>
 
-  <lastBuildDate>Tue, 13 Jan 2026 11:07:08 +0200</lastBuildDate>
+  <lastBuildDate>Tue, 13 Jan 2026 11:07:46 +0200</lastBuildDate>
+<item>
+  <title>First impressions of Claude Cowork, Anthropic’s general agent</title>
+  <link>https://simonwillison.net/2026/Jan/12/claude-cowork/#atom-everything</link>
+  <description><![CDATA[<img src='https://atarity.github.io/intersections/meta/interpections.jpg' alt='' /><p></p>]]></description>
+  <pubDate>Tue, 13 Jan 2026 11:07:46 +0200</pubDate>
+  <guid>https://simonwillison.net/2026/Jan/12/claude-cowork/#atom-everything</guid>
+</item>
 <item>
   <title>GitHub - jesseduffield/lazydocker: The lazier way to manage everything docker</title>
   <link>https://github.com/jesseduffield/lazydocker</link>
