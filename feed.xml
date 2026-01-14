@@ -5,7 +5,14 @@
   <description>Лента почти полезных ссылок. Я кликал и не пожалел.</description>
   <link>https://snnkv.com/</link>
 
-  <lastBuildDate>Wed, 14 Jan 2026 11:45:26 +0200</lastBuildDate>
+  <lastBuildDate>Wed, 14 Jan 2026 20:33:39 +0200</lastBuildDate>
+<item>
+  <title>Visual Parts Counter - ESP32</title>
+  <link>https://www.youtube.com/shorts/SG8ynTN-v4E</link>
+  <description><![CDATA[<img src='https://atarity.github.io/intersections/meta/interpections.jpg' alt='' /><p>Счётчик мелочи за 30 баксов на компьютерном зрении, но при этом без ML (что отлично). Думаю если в платформу добавить небольшой вибромотор чтобы компоненты медленно двигались и распутывались, будет ещё точнее.</p>]]></description>
+  <pubDate>Wed, 14 Jan 2026 20:33:39 +0200</pubDate>
+  <guid>https://www.youtube.com/shorts/SG8ynTN-v4E</guid>
+</item>
 <item>
   <title>An Open Source Electromagnetic Resonance Tablet</title>
   <link>https://hackaday.com/2026/01/14/an-open-source-electromagnetic-resonance-tablet/</link>
