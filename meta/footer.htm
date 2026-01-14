@@ -1,5 +1,13 @@
 </main>
 <footer><b>Misha Sannikov</b> © 2026</footer>
+<script>
+    const count = document.querySelectorAll('article').length;
+    const title = document.querySelector('h1.title');
+
+    if (title) {
+        title.setAttribute('title', `Ссылок: ${count}`);
+    }
+</script>
 </body>
 
 </html>
