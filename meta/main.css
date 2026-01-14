@@ -64,6 +64,7 @@ main {
 .title .line-2 {
     font-size: 0.5em;
     letter-spacing: 0.17em;
+    padding-left: 0.07em;
     color: #000;
     /* Changed to black */
     text-transform: uppercase;
