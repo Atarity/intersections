@@ -44,6 +44,14 @@ main {
     flex: 1;
 }
 
+.head-wrapper {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    gap: 20px;
+    margin-bottom: 0;
+}
+
 .title {
     display: inline-block;
     font-size: clamp(2rem, 8vw, 4.5rem);
@@ -70,8 +78,17 @@ main {
     text-transform: uppercase;
 }
 
-.head-wrapper p,
-nobr {
+.sidelinks {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    font-size: 1.2rem;
+    gap: 6px;
+    padding: 20px 0 0 0;
+}
+
+.intro,
+.intro nobr {
     max-width: 800px;
     font-size: 1.4rem;
     color: #333;
