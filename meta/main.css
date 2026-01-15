@@ -74,17 +74,35 @@ main {
     letter-spacing: 0.17em;
     padding-left: 0.07em;
     color: #000;
-    /* Changed to black */
     text-transform: uppercase;
 }
 
 .sidelinks {
     display: flex;
-    flex-direction: column;
-    align-items: flex-end;
-    font-size: 1.2rem;
-    gap: 6px;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-end;
+    gap: 5px;
     padding: 20px 0 0 0;
+}
+
+.sidelinks a {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    padding: 4px;
+    /* increased click area */
+}
+
+.sidelinks img {
+    width: 1.4em;
+    height: 1.4em;
+    opacity: 0.3;
+    transition: opacity 0.2s ease;
+}
+
+.sidelinks a:hover img {
+    opacity: 1;
 }
 
 .intro,
