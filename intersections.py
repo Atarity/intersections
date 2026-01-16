@@ -71,7 +71,12 @@ def main():
     if comment:
         comment_html = (
             "  <div class='comment-wrapper'>\n"
-            "    <div class='avatar'><img src='meta/avatar-bl.svg' alt=''></div>\n"
+            f"    <a href='#{article_id}' class='avatar-link'>\n"
+            "      <div class='avatar'>\n"
+            "        <img src='meta/avatar-bl.svg' alt=''>\n"
+            "        <span class='avatar-anchor' aria-hidden='true'></span>\n"
+            "      </div>\n"
+            "    </a>\n"
             f"    <p class='comment'>{html.escape(comment)}</p>\n"
             "  </div>\n"
         )
