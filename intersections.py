@@ -46,6 +46,7 @@ def main():
     url_original = args.url
     comment = args.comment
     url_display = normalize_url(url_original)
+    article_id = re.sub(r'[^a-zA-Z0-9]+', '-', url_display).strip('-')
 
     print(f"Fetching title for {url_original}...")
     page_title = fetch_title(url_original) or url_display
@@ -76,7 +77,7 @@ def main():
         )
 
     article_html = (
-        f"<article id='{url_display}'>\n"
+        f"<article id='{article_id}'>\n"
         "  <div class='entry-header'>\n"
         f"    <span class='ts'>{ts}</span>\n"
         f"    <h2 class='entry-title'><a href='{url_original}' target='_blank'>{html.escape(page_title)}</a></h2>\n"
