@@ -5,7 +5,14 @@
   <description>Лента почти полезных ссылок. Я кликал и не пожалел.</description>
   <link>https://snnkv.com/</link>
 
-  <lastBuildDate>Sat, 17 Jan 2026 12:05:19 +0200</lastBuildDate>
+  <lastBuildDate>Sun, 18 Jan 2026 01:03:13 +0200</lastBuildDate>
+<item>
+  <title>ASCII characters are not pixels: a deep dive into ASCII rendering</title>
+  <link>https://alexharri.com/blog/ascii-rendering</link>
+  <description><![CDATA[<img src='https://atarity.github.io/intersections/meta/interpections.jpg' alt='' /><p>Отлично оформленный пост про ASCII-рендеринг. Оказывается именно там хранится та часть матана которая не влезла в dither-рендеринг.</p>]]></description>
+  <pubDate>Sun, 18 Jan 2026 01:03:13 +0200</pubDate>
+  <guid>https://alexharri.com/blog/ascii-rendering</guid>
+</item>
 <item>
   <title>Our Algorithmic Grey-Beige World</title>
   <link>https://om.co/2026/01/16/our-algorithmic-grey-beige-world/</link>
