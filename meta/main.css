@@ -82,7 +82,7 @@ main {
     flex-direction: row;
     align-items: center;
     justify-content: flex-end;
-    gap: 5px;
+    gap: clamp(1px, 0.2vw, 5px);
     padding: 20px 0 0 0;
 }
 
@@ -91,12 +91,11 @@ main {
     align-items: center;
     justify-content: center;
     padding: 4px;
-    /* increased click area */
 }
 
 .sidelinks img {
-    width: 1.4em;
-    height: 1.4em;
+    width: clamp(1rem, 3vw, 1.6rem);
+    height: clamp(1rem, 3vw, 1.6rem);
     opacity: 0.2;
     transition: opacity 0.2s ease;
 }
@@ -205,12 +204,14 @@ article .avatar-link {
     cursor: pointer;
 }
 
-article .avatar-link:hover .avatar-anchor {
-    opacity: 0.9;
-}
+@media (hover: hover) {
+    article .avatar-link:hover .avatar-anchor {
+        opacity: 0.9;
+    }
 
-article .avatar-link:hover img {
-    opacity: 0.7;
+    article .avatar-link:hover img {
+        opacity: 0.7;
+    }
 }
 
 article .comment {
