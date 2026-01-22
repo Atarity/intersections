@@ -5,7 +5,14 @@
   <description>Лента почти полезных ссылок. Я кликал и не пожалел.</description>
   <link>https://snnkv.com/</link>
 
-  <lastBuildDate>Thu, 22 Jan 2026 20:27:06 +0200</lastBuildDate>
+  <lastBuildDate>Thu, 22 Jan 2026 20:33:33 +0200</lastBuildDate>
+<item>
+  <title>kagisearch/smallweb: Kagi Small Web</title>
+  <link>https://github.com/kagisearch/smallweb</link>
+  <description><![CDATA[<img src='https://atarity.github.io/intersections/meta/interpections.jpg' alt='' /><p>У поисковика Kagi оказывается уже 2 года есть репозиторий со ссылками на живые (регулярно обновляемыми) standalone блоги и личные сайты на английском. С радостью бы покопался в чём-то подобном на русском языке.</p>]]></description>
+  <pubDate>Thu, 22 Jan 2026 20:33:33 +0200</pubDate>
+  <guid>https://github.com/kagisearch/smallweb</guid>
+</item>
 <item>
   <title>Intro to Embedded Rust - Part 1: What is Rust?</title>
   <link>https://www.youtube.com/watch?v=mz-vW-Ar_GM</link>
@@ -138,13 +145,6 @@
   <description>Тут говорят, что лучший dithering, на который способно человечество, в игре Return of Obra Dinn.</description>
   <pubDate>Thu, 08 Jan 2026 21:40:55 +0200</pubDate>
   <guid>https://www.youtube.com/watch?v=_3qzyAHMoUU</guid>
-</item>
-<item>
-  <title>Pokémon карточки как бизнес‑шаблон (техно‑ностальгия идёт туда же)</title>
-  <link>https://vas3k.club/post/30501/</link>
-  <description></description>
-  <pubDate>Thu, 08 Jan 2026 15:54:41 +0200</pubDate>
-  <guid>https://vas3k.club/post/30501/</guid>
 </item>
 </channel>
 </rss>
