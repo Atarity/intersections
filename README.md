@@ -1,7 +1,7 @@
 # Intersections
 A tiny static page generator for personal link sharing.
 
-Demo: [atarity.github.io/intersections/](https://atarity.github.io/intersections/)
+Demo: [https://intersections.snnkv.com/](https://intersections.snnkv.com/)
 
 ## Features
 - Automatic Title Fetching

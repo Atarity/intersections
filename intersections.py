@@ -9,7 +9,7 @@ import urllib.request
 import readline
 from datetime import datetime
 
-DEPLOYED_TO = "https://atarity.github.io/intersections/"
+DEPLOYED_TO = "https://intersections.snnkv.com/"
 
 def fetch_title(url):
     """Fetch and extract page title using standard urllib and re."""
