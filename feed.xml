@@ -5,7 +5,14 @@
   <description>Лента почти полезных ссылок. Я кликал и не пожалел.</description>
   <link>https://snnkv.com/</link>
 
-  <lastBuildDate>Sun, 25 Jan 2026 13:32:51 +0200</lastBuildDate>
+  <lastBuildDate>Wed, 28 Jan 2026 15:50:31 +0200</lastBuildDate>
+<item>
+  <title>Andrej Karpathy (@karpathy): &quot;A few random notes from claude coding quite a bit last few weeks.</title>
+  <link>https://xcancel.com/karpathy/status/2015883857489522876</link>
+  <description><![CDATA[<img src='https://intersections.snnkv.com/meta/interpections.jpg' alt='' /><p>Маэстро вернулся с новым state of coding LLMs</p>]]></description>
+  <pubDate>Wed, 28 Jan 2026 15:50:31 +0200</pubDate>
+  <guid>https://xcancel.com/karpathy/status/2015883857489522876</guid>
+</item>
 <item>
   <title>LTT shows Marcello &amp; Jimmy the Lollipop Star!</title>
   <link>https://www.youtube.com/shorts/ii5oUYpvkNU</link>
@@ -138,13 +145,6 @@
   <description><![CDATA[<img src='https://atarity.github.io/intersections/meta/interpections.jpg' alt='' /><p>Итоги 2025 от Hackaday.</p>]]></description>
   <pubDate>Sun, 11 Jan 2026 12:22:14 +0200</pubDate>
   <guid>https://hackaday.com/2026/01/05/2025-as-the-hardware-world-turns/</guid>
-</item>
-<item>
-  <title>Bose open-sources its SoundTouch home speakers ahead of end-of-life</title>
-  <link>https://arstechnica.com/gadgets/2026/01/bose-open-sources-its-soundtouch-home-theater-smart-speakers-ahead-of-eol/</link>
-  <description><![CDATA[<img src='https://atarity.github.io/intersections/meta/interpections.jpg' alt=''><p>Bose под давлением клиентов опубликовала API для их старых колонок, которые были сделаны так хорошо, что пережили десятилетие.</p>]]></description>
-  <pubDate>Fri, 09 Jan 2026 22:04:38 +0200</pubDate>
-  <guid>https://arstechnica.com/gadgets/2026/01/bose-open-sources-its-soundtouch-home-theater-smart-speakers-ahead-of-eol/</guid>
 </item>
 </channel>
 </rss>
