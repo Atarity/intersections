@@ -5,7 +5,14 @@
   <description>Лента почти полезных ссылок. Я кликал и не пожалел.</description>
   <link>https://snnkv.com/</link>
 
-  <lastBuildDate>Fri, 30 Jan 2026 12:26:10 +0200</lastBuildDate>
+  <lastBuildDate>Fri, 30 Jan 2026 22:54:00 +0200</lastBuildDate>
+<item>
+  <title>/cleanup skill for Claude</title>
+  <link>https://campedersen.com/cleanup</link>
+  <description><![CDATA[<img src='https://intersections.snnkv.com/meta/interpections.jpg' alt='' /><p>Простой и понятный пример скилла для Claude. Вот бы в их собственной документации что-то такое показывали.</p>]]></description>
+  <pubDate>Fri, 30 Jan 2026 22:54:00 +0200</pubDate>
+  <guid>https://campedersen.com/cleanup</guid>
+</item>
 <item>
   <title>Cloudflare China Network | Cloudflare</title>
   <link>https://www.cloudflare.com/application-services/products/china-network/</link>
@@ -138,13 +145,6 @@
   <description><![CDATA[<img src='https://atarity.github.io/intersections/meta/interpections.jpg' alt='' /><p>TUI для Докера чтобы забыть про Docker Desktop</p>]]></description>
   <pubDate>Tue, 13 Jan 2026 11:07:08 +0200</pubDate>
   <guid>https://github.com/jesseduffield/lazydocker</guid>
-</item>
-<item>
-  <title>OLED… Not for me.</title>
-  <link>https://nuxx.net/blog/2026/01/09/oled-not-for-me/</link>
-  <description><![CDATA[<img src='https://atarity.github.io/intersections/meta/interpections.jpg' alt='' /><p>Присматриваюсь к OLED мониторам, но судя по отзывам тех кто за ними работает, а не играет, есть смысл продолжать ждать пока починять sub-pixel rendering. Этим проблемам скоро полвека, но они всё-равно всплывают в каждом новом поколении экранов.</p>]]></description>
-  <pubDate>Mon, 12 Jan 2026 20:57:18 +0200</pubDate>
-  <guid>https://nuxx.net/blog/2026/01/09/oled-not-for-me/</guid>
 </item>
 </channel>
 </rss>
