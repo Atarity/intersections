@@ -5,7 +5,14 @@
   <description>Лента почти полезных ссылок. Я кликал и не пожалел.</description>
   <link>https://snnkv.com/</link>
 
-  <lastBuildDate>Fri, 30 Jan 2026 22:54:00 +0200</lastBuildDate>
+  <lastBuildDate>Sat, 31 Jan 2026 12:03:07 +0200</lastBuildDate>
+<item>
+  <title>Yes, it&#x27;s 3D printed</title>
+  <link>https://www.reddit.com/r/ErgoMechKeyboards/comments/1plx937/yes_its_3d_printed/</link>
+  <description><![CDATA[<img src='https://intersections.snnkv.com/meta/interpections.jpg' alt='' /><p>Когда-нибудь я попробую угореть и добиться такого финишинга на FFF печати. Но не сегодня.</p>]]></description>
+  <pubDate>Sat, 31 Jan 2026 12:03:07 +0200</pubDate>
+  <guid>https://www.reddit.com/r/ErgoMechKeyboards/comments/1plx937/yes_its_3d_printed/</guid>
+</item>
 <item>
   <title>/cleanup skill for Claude</title>
   <link>https://campedersen.com/cleanup</link>
@@ -138,13 +145,6 @@
   <description><![CDATA[<img src='https://atarity.github.io/intersections/meta/interpections.jpg' alt='' /><p></p>]]></description>
   <pubDate>Tue, 13 Jan 2026 11:07:46 +0200</pubDate>
   <guid>https://simonwillison.net/2026/Jan/12/claude-cowork/#atom-everything</guid>
-</item>
-<item>
-  <title>GitHub - jesseduffield/lazydocker: The lazier way to manage everything docker</title>
-  <link>https://github.com/jesseduffield/lazydocker</link>
-  <description><![CDATA[<img src='https://atarity.github.io/intersections/meta/interpections.jpg' alt='' /><p>TUI для Докера чтобы забыть про Docker Desktop</p>]]></description>
-  <pubDate>Tue, 13 Jan 2026 11:07:08 +0200</pubDate>
-  <guid>https://github.com/jesseduffield/lazydocker</guid>
 </item>
 </channel>
 </rss>
