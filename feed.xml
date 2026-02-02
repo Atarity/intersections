@@ -5,7 +5,14 @@
   <description>Лента почти полезных ссылок. Я кликал и не пожалел.</description>
   <link>https://snnkv.com/</link>
 
-  <lastBuildDate>Mon, 02 Feb 2026 13:53:24 +0200</lastBuildDate>
+  <lastBuildDate>Mon, 02 Feb 2026 21:55:08 +0200</lastBuildDate>
+<item>
+  <title>A guide to home row mods</title>
+  <link>https://precondition.github.io/home-row-mods</link>
+  <description><![CDATA[<img src='https://intersections.snnkv.com/meta/interpections.jpg' alt='' /><p>Гайд по настройке модификаторов на клавиатуре. Уровень исследования: 10 моих дипломных работ.</p>]]></description>
+  <pubDate>Mon, 02 Feb 2026 21:55:08 +0200</pubDate>
+  <guid>https://precondition.github.io/home-row-mods</guid>
+</item>
 <item>
   <title>Moltbook is the most interesting place on the internet right now</title>
   <link>https://simonwillison.net/2026/Jan/30/moltbook/</link>
@@ -138,13 +145,6 @@
   <description><![CDATA[<img src='https://atarity.github.io/intersections/meta/interpections.jpg' alt='' /><p>Счётчик мелочи за 30 баксов на компьютерном зрении, но при этом без ML (что отлично). Думаю если в платформу добавить небольшой вибромотор чтобы компоненты медленно двигались и распутывались, будет ещё точнее.</p>]]></description>
   <pubDate>Wed, 14 Jan 2026 20:33:39 +0200</pubDate>
   <guid>https://www.youtube.com/shorts/SG8ynTN-v4E</guid>
-</item>
-<item>
-  <title>An Open Source Electromagnetic Resonance Tablet</title>
-  <link>https://hackaday.com/2026/01/14/an-open-source-electromagnetic-resonance-tablet/</link>
-  <description><![CDATA[<img src='https://atarity.github.io/intersections/meta/interpections.jpg' alt='' /><p>Open-source планшет (EMR drawing tablet, который со стилусом). Меня такие проекты впечатляют сами по себе, но когда в демке автор запихнул его прямо под экран ноутбука и начал рисовать у меня совсем челюсть отвалилась.</p>]]></description>
-  <pubDate>Wed, 14 Jan 2026 11:45:26 +0200</pubDate>
-  <guid>https://hackaday.com/2026/01/14/an-open-source-electromagnetic-resonance-tablet/</guid>
 </item>
 </channel>
 </rss>
