@@ -5,7 +5,14 @@
   <description>Лента почти полезных ссылок. Я кликал и не пожалел.</description>
   <link>https://snnkv.com/</link>
 
-  <lastBuildDate>Sat, 31 Jan 2026 12:03:07 +0200</lastBuildDate>
+  <lastBuildDate>Mon, 02 Feb 2026 13:53:24 +0200</lastBuildDate>
+<item>
+  <title>Moltbook is the most interesting place on the internet right now</title>
+  <link>https://simonwillison.net/2026/Jan/30/moltbook/</link>
+  <description><![CDATA[<img src='https://intersections.snnkv.com/meta/interpections.jpg' alt='' /><p>Я безработный и даже у меня нет времени чтобы успевать пробовать всю ту чертовщину которая рождается вокруг AI со скоростью триллион новых продуктов в месяц.</p>]]></description>
+  <pubDate>Mon, 02 Feb 2026 13:53:24 +0200</pubDate>
+  <guid>https://simonwillison.net/2026/Jan/30/moltbook/</guid>
+</item>
 <item>
   <title>Yes, it&#x27;s 3D printed</title>
   <link>https://www.reddit.com/r/ErgoMechKeyboards/comments/1plx937/yes_its_3d_printed/</link>
@@ -138,13 +145,6 @@
   <description><![CDATA[<img src='https://atarity.github.io/intersections/meta/interpections.jpg' alt='' /><p>Open-source планшет (EMR drawing tablet, который со стилусом). Меня такие проекты впечатляют сами по себе, но когда в демке автор запихнул его прямо под экран ноутбука и начал рисовать у меня совсем челюсть отвалилась.</p>]]></description>
   <pubDate>Wed, 14 Jan 2026 11:45:26 +0200</pubDate>
   <guid>https://hackaday.com/2026/01/14/an-open-source-electromagnetic-resonance-tablet/</guid>
-</item>
-<item>
-  <title>First impressions of Claude Cowork, Anthropic’s general agent</title>
-  <link>https://simonwillison.net/2026/Jan/12/claude-cowork/#atom-everything</link>
-  <description><![CDATA[<img src='https://atarity.github.io/intersections/meta/interpections.jpg' alt='' /><p></p>]]></description>
-  <pubDate>Tue, 13 Jan 2026 11:07:46 +0200</pubDate>
-  <guid>https://simonwillison.net/2026/Jan/12/claude-cowork/#atom-everything</guid>
 </item>
 </channel>
 </rss>
