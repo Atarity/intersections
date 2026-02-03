@@ -19,5 +19,6 @@ python3 intersections.py 'https://snnkv.com' 'This is a cool site.'
 - `-l` is for local mode (disable git commit-push)
 
 ## TODO
+- Better mobile layout
 - Search bar
 - TBD: Semantic tagging (as part of the page fetching)
