@@ -5,7 +5,14 @@
   <description>Лента почти полезных ссылок. Я кликал и не пожалел.</description>
   <link>https://snnkv.com/</link>
 
-  <lastBuildDate>Wed, 04 Feb 2026 12:32:15 +0200</lastBuildDate>
+  <lastBuildDate>Wed, 04 Feb 2026 12:36:21 +0200</lastBuildDate>
+<item>
+  <title>Places to Telnet | telnet.org</title>
+  <link>https://telnet.org/htm/places.htm</link>
+  <description><![CDATA[<img src='https://intersections.snnkv.com/meta/interpections.jpg' alt='' /><p>Text based internet. Still standing.</p>]]></description>
+  <pubDate>Wed, 04 Feb 2026 12:36:21 +0200</pubDate>
+  <guid>https://telnet.org/htm/places.htm</guid>
+</item>
 <item>
   <title>How Vibe Coding Is Killing Open Source</title>
   <link>https://hackaday.com/2026/02/02/how-vibe-coding-is-killing-open-source/</link>
@@ -138,13 +145,6 @@
   <description><![CDATA[<img src='https://atarity.github.io/intersections/meta/interpections.jpg' alt='' /><p>Недавно захотелось вновь попробовать мышь вместо трэкпада на Mac. Зашёл на сайт Logitech в раздел Downloads и сразу вспомнил почему уже больше 15 лет не пользуюсь их девайсами.</p>]]></description>
   <pubDate>Thu, 15 Jan 2026 12:30:14 +0200</pubDate>
   <guid>https://rknight.me/blog/logitech-options-alternatives-for-macos/</guid>
-</item>
-<item>
-  <title>SparkFun Officially Dropping AdaFruit due to CoC Violation</title>
-  <link>https://news.ycombinator.com/item?id=46616488</link>
-  <description><![CDATA[<img src='https://atarity.github.io/intersections/meta/interpections.jpg' alt='' /><p>В OSHW такой же серпентарий, как и всюду.</p>]]></description>
-  <pubDate>Thu, 15 Jan 2026 11:35:02 +0200</pubDate>
-  <guid>https://news.ycombinator.com/item?id=46616488</guid>
 </item>
 </channel>
 </rss>
