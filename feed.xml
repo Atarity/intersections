@@ -5,7 +5,14 @@
   <description>Лента почти полезных ссылок. Я кликал и не пожалел.</description>
   <link>https://snnkv.com/</link>
 
-  <lastBuildDate>Sat, 07 Feb 2026 17:48:07 +0200</lastBuildDate>
+  <lastBuildDate>Sat, 07 Feb 2026 18:22:43 +0200</lastBuildDate>
+<item>
+  <title>GitHub - schollz/_core: firmware for the zeptocore, zeptoboard, ectocore, and ezeptocore</title>
+  <link>https://github.com/schollz/_core</link>
+  <description><![CDATA[<img src='https://intersections.snnkv.com/meta/interpections.jpg' alt='' /><p>Зак Шольц делает уже третий подход к еврорэку. На этот раз Ezeptocore. Схемотехника открыта и основана на Plaits. Только в качестве мозгов там RP2040.</p>]]></description>
+  <pubDate>Sat, 07 Feb 2026 18:22:43 +0200</pubDate>
+  <guid>https://github.com/schollz/_core</guid>
+</item>
 <item>
   <title>Digital Iris</title>
   <link>https://www.youtube.com/watch?v=Kg_2MAgS_pE</link>
@@ -138,13 +145,6 @@
   <description><![CDATA[<img src='https://atarity.github.io/intersections/meta/interpections.jpg' alt='' /><p>Отлично оформленный пост про ASCII-рендеринг. Оказывается именно там хранится та часть матана которая не влезла в dither-рендеринг.</p>]]></description>
   <pubDate>Sun, 18 Jan 2026 01:03:13 +0200</pubDate>
   <guid>https://alexharri.com/blog/ascii-rendering</guid>
-</item>
-<item>
-  <title>Our Algorithmic Grey-Beige World</title>
-  <link>https://om.co/2026/01/16/our-algorithmic-grey-beige-world/</link>
-  <description><![CDATA[<img src='https://atarity.github.io/intersections/meta/interpections.jpg' alt='' /><p>Лучшие каналы на Ютюбе те, которым 17 лет и у них 800 подписчиков. Буквально всего 2 плоские, числовые метрики нужны чтобы найти лучший контент. Правда, искать по ним можно только через API.</p>]]></description>
-  <pubDate>Sat, 17 Jan 2026 12:05:19 +0200</pubDate>
-  <guid>https://om.co/2026/01/16/our-algorithmic-grey-beige-world/</guid>
 </item>
 </channel>
 </rss>
