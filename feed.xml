@@ -5,7 +5,14 @@
   <description>Лента почти полезных ссылок. Я кликал и не пожалел.</description>
   <link>https://snnkv.com/</link>
 
-  <lastBuildDate>Fri, 06 Feb 2026 11:27:48 +0200</lastBuildDate>
+  <lastBuildDate>Sat, 07 Feb 2026 17:48:07 +0200</lastBuildDate>
+<item>
+  <title>Digital Iris</title>
+  <link>https://www.youtube.com/watch?v=Kg_2MAgS_pE</link>
+  <description><![CDATA[<img src='https://intersections.snnkv.com/meta/interpections.jpg' alt='' /><p>Инженеры изобретают совершенно разную дичь из говна и ниток. Электронная шторка для вашей зекралки. Со всеми вытекающими «анимированными» боке.</p>]]></description>
+  <pubDate>Sat, 07 Feb 2026 17:48:07 +0200</pubDate>
+  <guid>https://www.youtube.com/watch?v=Kg_2MAgS_pE</guid>
+</item>
 <item>
   <title>Tangible Media: A Historical Collection of Information Storage Technology</title>
   <link>https://tangiblemediacollection.com/</link>
@@ -138,13 +145,6 @@
   <description><![CDATA[<img src='https://atarity.github.io/intersections/meta/interpections.jpg' alt='' /><p>Лучшие каналы на Ютюбе те, которым 17 лет и у них 800 подписчиков. Буквально всего 2 плоские, числовые метрики нужны чтобы найти лучший контент. Правда, искать по ним можно только через API.</p>]]></description>
   <pubDate>Sat, 17 Jan 2026 12:05:19 +0200</pubDate>
   <guid>https://om.co/2026/01/16/our-algorithmic-grey-beige-world/</guid>
-</item>
-<item>
-  <title>torvalds/AudioNoise: Random digital audio effects</title>
-  <link>https://github.com/torvalds/AudioNoise</link>
-  <description><![CDATA[<img src='https://atarity.github.io/intersections/meta/interpections.jpg' alt='' /><p>Да, это репозиторий с гитарной педалью от Линуса Торвальдса. По его собственным словам у него даже нет гитары. Глубоко понимаю такое.</p>]]></description>
-  <pubDate>Fri, 16 Jan 2026 12:51:12 +0200</pubDate>
-  <guid>https://github.com/torvalds/AudioNoise</guid>
 </item>
 </channel>
 </rss>
