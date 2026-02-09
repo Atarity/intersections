@@ -5,7 +5,14 @@
   <description>Лента почти полезных ссылок. Я кликал и не пожалел.</description>
   <link>https://snnkv.com/</link>
 
-  <lastBuildDate>Sat, 07 Feb 2026 18:22:43 +0200</lastBuildDate>
+  <lastBuildDate>Mon, 09 Feb 2026 11:43:08 +0200</lastBuildDate>
+<item>
+  <title>Text is king - by Adam Mastroianni</title>
+  <link>https://www.experimental-history.com/p/text-is-king</link>
+  <description><![CDATA[<img src='https://intersections.snnkv.com/meta/interpections.jpg' alt='' /><p>Говорят текст никуда не денется и переживёт всех. &quot;I gave them all the YouTube Shorts they could ever desire and they’re still...reading!!&quot;</p>]]></description>
+  <pubDate>Mon, 09 Feb 2026 11:43:08 +0200</pubDate>
+  <guid>https://www.experimental-history.com/p/text-is-king</guid>
+</item>
 <item>
   <title>GitHub - schollz/_core: firmware for the zeptocore, zeptoboard, ectocore, and ezeptocore</title>
   <link>https://github.com/schollz/_core</link>
@@ -138,13 +145,6 @@
   <description><![CDATA[<img src='https://atarity.github.io/intersections/meta/interpections.jpg' alt='' /><p>Дэвид Хилл целую вечность делает «скучный» промдизайн для ThinkPad. Сначала при IBM, потом при Lenovo. Ничего важного за 30 лет облик этих устройств не потерял.</p>]]></description>
   <pubDate>Sun, 18 Jan 2026 23:16:52 +0200</pubDate>
   <guid>https://thinknextdesign.com/home.html</guid>
-</item>
-<item>
-  <title>ASCII characters are not pixels: a deep dive into ASCII rendering</title>
-  <link>https://alexharri.com/blog/ascii-rendering</link>
-  <description><![CDATA[<img src='https://atarity.github.io/intersections/meta/interpections.jpg' alt='' /><p>Отлично оформленный пост про ASCII-рендеринг. Оказывается именно там хранится та часть матана которая не влезла в dither-рендеринг.</p>]]></description>
-  <pubDate>Sun, 18 Jan 2026 01:03:13 +0200</pubDate>
-  <guid>https://alexharri.com/blog/ascii-rendering</guid>
 </item>
 </channel>
 </rss>
