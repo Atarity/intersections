@@ -5,7 +5,14 @@
   <description>Лента почти полезных ссылок. Я кликал и не пожалел.</description>
   <link>https://snnkv.com/</link>
 
-  <lastBuildDate>Mon, 09 Feb 2026 11:43:08 +0200</lastBuildDate>
+  <lastBuildDate>Wed, 11 Feb 2026 11:32:32 +0200</lastBuildDate>
+<item>
+  <title>Ferrari Luce - Ferrari.com</title>
+  <link>https://www.ferrari.com/en-US/auto/ferrari-luce</link>
+  <description><![CDATA[<img src='https://intersections.snnkv.com/meta/interpections.jpg' alt='' /><p>Надолго залип на странице с рендерами интерьера новой электрической Ferrari. Так хорошо у дизайнеров получается вписать прошлое в будущее и подружить паттерны из F1 с деталями тракторов.</p>]]></description>
+  <pubDate>Wed, 11 Feb 2026 11:32:32 +0200</pubDate>
+  <guid>https://www.ferrari.com/en-US/auto/ferrari-luce</guid>
+</item>
 <item>
   <title>Text is king - by Adam Mastroianni</title>
   <link>https://www.experimental-history.com/p/text-is-king</link>
@@ -138,13 +145,6 @@
   <description><![CDATA[<img src='https://atarity.github.io/intersections/meta/interpections.jpg' alt='' /><p>Этих ребят просто съели скрэперы. Результаты этого мы наверняка почувствуем на себе через несколько лет. Интернет не успевает за технологиями которые сам же и выращивает.</p>]]></description>
   <pubDate>Thu, 22 Jan 2026 11:25:22 +0200</pubDate>
   <guid>https://www.techzine.eu/news/devops/137686/stack-overflow-in-freefall-78-percent-drop-in-number-of-questions/</guid>
-</item>
-<item>
-  <title>ThinkNext Design</title>
-  <link>https://thinknextdesign.com/home.html</link>
-  <description><![CDATA[<img src='https://atarity.github.io/intersections/meta/interpections.jpg' alt='' /><p>Дэвид Хилл целую вечность делает «скучный» промдизайн для ThinkPad. Сначала при IBM, потом при Lenovo. Ничего важного за 30 лет облик этих устройств не потерял.</p>]]></description>
-  <pubDate>Sun, 18 Jan 2026 23:16:52 +0200</pubDate>
-  <guid>https://thinknextdesign.com/home.html</guid>
 </item>
 </channel>
 </rss>
