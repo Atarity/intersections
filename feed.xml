@@ -5,7 +5,14 @@
   <description>Лента почти полезных ссылок. Я кликал и не пожалел.</description>
   <link>https://snnkv.com/</link>
 
-  <lastBuildDate>Sun, 15 Feb 2026 13:55:50 +0200</lastBuildDate>
+  <lastBuildDate>Sun, 15 Feb 2026 14:45:21 +0200</lastBuildDate>
+<item>
+  <title>The tragedy of the original Shredder</title>
+  <link>https://www.youtube.com/watch?v=J508n21_3mw</link>
+  <description><![CDATA[<img src='https://intersections.snnkv.com/meta/interpections.jpg' alt='' /><p>Зачем думать о Римской Империи, когда можно думать о лоре Черепашек Ниндзя?</p>]]></description>
+  <pubDate>Sun, 15 Feb 2026 14:45:21 +0200</pubDate>
+  <guid>https://www.youtube.com/watch?v=J508n21_3mw</guid>
+</item>
 <item>
   <title>The third golden age of software engineering – thanks to AI, with Grady Booch</title>
   <link>https://newsletter.pragmaticengineer.com/p/the-third-golden-age-of-software?hide_intro_popup=true</link>
@@ -138,13 +145,6 @@
   <description><![CDATA[<img src='https://atarity.github.io/intersections/meta/interpections.jpg' alt='' /><p>У поисковика Kagi оказывается уже 2 года есть репозиторий со ссылками на живые (регулярно обновляемыми) standalone блоги и личные сайты на английском. С радостью бы покопался в чём-то подобном на русском языке.</p>]]></description>
   <pubDate>Thu, 22 Jan 2026 20:33:33 +0200</pubDate>
   <guid>https://github.com/kagisearch/smallweb</guid>
-</item>
-<item>
-  <title>Intro to Embedded Rust - Part 1: What is Rust?</title>
-  <link>https://www.youtube.com/watch?v=mz-vW-Ar_GM</link>
-  <description><![CDATA[<img src='https://atarity.github.io/intersections/meta/interpections.jpg' alt='' /><p>У этого парня какой-то талант делать обучающие серии на душные темы простыми, аккуратными и не... душными. Можно просто посмотреть вечерком валяясь на диване. Жаль, видео выходят не очень часто.</p>]]></description>
-  <pubDate>Thu, 22 Jan 2026 20:27:06 +0200</pubDate>
-  <guid>https://www.youtube.com/watch?v=mz-vW-Ar_GM</guid>
 </item>
 </channel>
 </rss>
