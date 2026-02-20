@@ -5,7 +5,14 @@
   <description>Лента почти полезных ссылок. Я кликал и не пожалел.</description>
   <link>https://snnkv.com/</link>
 
-  <lastBuildDate>Sun, 15 Feb 2026 14:45:21 +0200</lastBuildDate>
+  <lastBuildDate>Fri, 20 Feb 2026 15:27:56 +0200</lastBuildDate>
+<item>
+  <title>300 Japan design details</title>
+  <link>https://aresluna.org/japan-design-details/</link>
+  <description><![CDATA[<img src='https://intersections.snnkv.com/meta/interpections.jpg' alt='' /><p></p>]]></description>
+  <pubDate>Fri, 20 Feb 2026 15:27:56 +0200</pubDate>
+  <guid>https://aresluna.org/japan-design-details/</guid>
+</item>
 <item>
   <title>The tragedy of the original Shredder</title>
   <link>https://www.youtube.com/watch?v=J508n21_3mw</link>
@@ -138,13 +145,6 @@
   <description><![CDATA[<img src='https://intersections.snnkv.com/meta/interpections.jpg' alt='' /><p>Понимаю, что по ссылке аналитика категории B, но весь прошлый год регулярно натыкался на похожие статьи о том как Винде поплохело в 2025м и просвета не видно.</p>]]></description>
   <pubDate>Fri, 23 Jan 2026 23:42:22 +0200</pubDate>
   <guid>https://gamesbymason.com/blog/2026/microsoft/</guid>
-</item>
-<item>
-  <title>kagisearch/smallweb: Kagi Small Web</title>
-  <link>https://github.com/kagisearch/smallweb</link>
-  <description><![CDATA[<img src='https://atarity.github.io/intersections/meta/interpections.jpg' alt='' /><p>У поисковика Kagi оказывается уже 2 года есть репозиторий со ссылками на живые (регулярно обновляемыми) standalone блоги и личные сайты на английском. С радостью бы покопался в чём-то подобном на русском языке.</p>]]></description>
-  <pubDate>Thu, 22 Jan 2026 20:33:33 +0200</pubDate>
-  <guid>https://github.com/kagisearch/smallweb</guid>
 </item>
 </channel>
 </rss>
