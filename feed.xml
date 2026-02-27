@@ -5,7 +5,14 @@
   <description>Лента почти полезных ссылок. Я кликал и не пожалел.</description>
   <link>https://snnkv.com/</link>
 
-  <lastBuildDate>Thu, 26 Feb 2026 17:37:08 +0200</lastBuildDate>
+  <lastBuildDate>Fri, 27 Feb 2026 23:23:04 +0200</lastBuildDate>
+<item>
+  <title>Dan Simmons died</title>
+  <link>https://www.dignitymemorial.com/obituaries/longmont-co/daniel-simmons-12758871</link>
+  <description><![CDATA[<img src='https://intersections.snnkv.com/meta/interpections.jpg' alt='' /><p>Умер Дэн Симмонс. Самое время прочитать как минимум пару из его Песен Гипериона.</p>]]></description>
+  <pubDate>Fri, 27 Feb 2026 23:23:04 +0200</pubDate>
+  <guid>https://www.dignitymemorial.com/obituaries/longmont-co/daniel-simmons-12758871</guid>
+</item>
 <item>
   <title>sabrinas.space</title>
   <link>https://sabrinas.space/</link>
@@ -138,13 +145,6 @@
   <description><![CDATA[<img src='https://intersections.snnkv.com/meta/interpections.jpg' alt='' /><p>Когда-нибудь я попробую угореть и добиться такого финишинга на FFF печати. Но не сегодня.</p>]]></description>
   <pubDate>Sat, 31 Jan 2026 12:03:07 +0200</pubDate>
   <guid>https://www.reddit.com/r/ErgoMechKeyboards/comments/1plx937/yes_its_3d_printed/</guid>
-</item>
-<item>
-  <title>/cleanup skill for Claude</title>
-  <link>https://campedersen.com/cleanup</link>
-  <description><![CDATA[<img src='https://intersections.snnkv.com/meta/interpections.jpg' alt='' /><p>Простой и понятный пример скилла для Claude. Вот бы в их собственной документации что-то такое показывали.</p>]]></description>
-  <pubDate>Fri, 30 Jan 2026 22:54:00 +0200</pubDate>
-  <guid>https://campedersen.com/cleanup</guid>
 </item>
 </channel>
 </rss>
