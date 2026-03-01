@@ -5,7 +5,14 @@
   <description>Лента почти полезных ссылок. Я кликал и не пожалел.</description>
   <link>https://snnkv.com/</link>
 
-  <lastBuildDate>Sun, 01 Mar 2026 18:23:47 +0200</lastBuildDate>
+  <lastBuildDate>Sun, 01 Mar 2026 18:36:52 +0200</lastBuildDate>
+<item>
+  <title>Banned in California — Why You Can&#x27;t Build Anything in the Golden State</title>
+  <link>https://www.bannedincalifornia.org/</link>
+  <description><![CDATA[<img src='https://intersections.snnkv.com/meta/interpections.jpg' alt='' /><p>Короткая и точная инфографика о том почему я не могу начать производить в Калифорнии собственный смартфон или автомобиль. Если присмотреться, все запрещённые технологии связаны с химией или электрохимией. Калифорнию тут можно заменить на любую развитую территорию: Европу, Тайвань, или даже прибрежные районы Китая.</p>]]></description>
+  <pubDate>Sun, 01 Mar 2026 18:36:52 +0200</pubDate>
+  <guid>https://www.bannedincalifornia.org/</guid>
+</item>
 <item>
   <title>Paper, Scissors, Gravity - Cam Pedersen</title>
   <link>https://campedersen.com/phyz</link>
@@ -138,13 +145,6 @@
   <description><![CDATA[<img src='https://intersections.snnkv.com/meta/interpections.jpg' alt='' /><p>Гайд по настройке модификаторов на клавиатуре. Уровень исследования: 10 моих дипломных работ.</p>]]></description>
   <pubDate>Mon, 02 Feb 2026 21:55:08 +0200</pubDate>
   <guid>https://precondition.github.io/home-row-mods</guid>
-</item>
-<item>
-  <title>Moltbook is the most interesting place on the internet right now</title>
-  <link>https://simonwillison.net/2026/Jan/30/moltbook/</link>
-  <description><![CDATA[<img src='https://intersections.snnkv.com/meta/interpections.jpg' alt='' /><p>Я безработный и даже у меня нет времени чтобы успевать пробовать всю ту чертовщину которая рождается вокруг AI со скоростью триллион новых продуктов в месяц.</p>]]></description>
-  <pubDate>Mon, 02 Feb 2026 13:53:24 +0200</pubDate>
-  <guid>https://simonwillison.net/2026/Jan/30/moltbook/</guid>
 </item>
 </channel>
 </rss>
