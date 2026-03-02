@@ -5,7 +5,14 @@
   <description>Лента почти полезных ссылок. Я кликал и не пожалел.</description>
   <link>https://snnkv.com/</link>
 
-  <lastBuildDate>Mon, 02 Mar 2026 13:02:24 +0200</lastBuildDate>
+  <lastBuildDate>Mon, 02 Mar 2026 23:58:31 +0200</lastBuildDate>
+<item>
+  <title>Knot Tying Tutorial</title>
+  <link>https://www.youtube.com/watch?v=0e-LYGgnLm4</link>
+  <description><![CDATA[<img src='https://intersections.snnkv.com/meta/interpections.jpg' alt='' /><p>Том Сакс учит нас вязать узлы под звуки муга с единственным LFO (впрочем, это его типичный саундтрек). Я умею вязать только рыбацкие пидзен, клинч и морковку. Ни один из них не поможет мне вытащить машину из кювета или хотя бы подвесить что-то к перекладине. Узлы нужно тренировать: забыть технику проще простого.</p>]]></description>
+  <pubDate>Mon, 02 Mar 2026 23:58:31 +0200</pubDate>
+  <guid>https://www.youtube.com/watch?v=0e-LYGgnLm4</guid>
+</item>
 <item>
   <title>Sony WM-FX173 ▶ Walkman.land</title>
   <link>https://walkman.land/sony/wm-fx173</link>
@@ -138,13 +145,6 @@
   <description><![CDATA[<img src='https://intersections.snnkv.com/meta/interpections.jpg' alt='' /><p>Text based internet. Still standing.</p>]]></description>
   <pubDate>Wed, 04 Feb 2026 12:36:21 +0200</pubDate>
   <guid>https://telnet.org/htm/places.htm</guid>
-</item>
-<item>
-  <title>How Vibe Coding Is Killing Open Source</title>
-  <link>https://hackaday.com/2026/02/02/how-vibe-coding-is-killing-open-source/</link>
-  <description><![CDATA[<img src='https://intersections.snnkv.com/meta/interpections.jpg' alt='' /><p>По-моему, ещё очень рано делать выводы. Тем более если основная метрика это посещаемость.</p>]]></description>
-  <pubDate>Wed, 04 Feb 2026 12:32:15 +0200</pubDate>
-  <guid>https://hackaday.com/2026/02/02/how-vibe-coding-is-killing-open-source/</guid>
 </item>
 </channel>
 </rss>
