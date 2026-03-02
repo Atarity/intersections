@@ -5,7 +5,14 @@
   <description>Лента почти полезных ссылок. Я кликал и не пожалел.</description>
   <link>https://snnkv.com/</link>
 
-  <lastBuildDate>Sun, 01 Mar 2026 18:36:52 +0200</lastBuildDate>
+  <lastBuildDate>Mon, 02 Mar 2026 13:02:24 +0200</lastBuildDate>
+<item>
+  <title>Sony WM-FX173 ▶ Walkman.land</title>
+  <link>https://walkman.land/sony/wm-fx173</link>
+  <description><![CDATA[<img src='https://intersections.snnkv.com/meta/interpections.jpg' alt='' /><p>Мой первый и последний кассетный плеер. Прекрасная база устройств.</p>]]></description>
+  <pubDate>Mon, 02 Mar 2026 13:02:24 +0200</pubDate>
+  <guid>https://walkman.land/sony/wm-fx173</guid>
+</item>
 <item>
   <title>Banned in California — Why You Can&#x27;t Build Anything in the Golden State</title>
   <link>https://www.bannedincalifornia.org/</link>
@@ -138,13 +145,6 @@
   <description><![CDATA[<img src='https://intersections.snnkv.com/meta/interpections.jpg' alt='' /><p>По-моему, ещё очень рано делать выводы. Тем более если основная метрика это посещаемость.</p>]]></description>
   <pubDate>Wed, 04 Feb 2026 12:32:15 +0200</pubDate>
   <guid>https://hackaday.com/2026/02/02/how-vibe-coding-is-killing-open-source/</guid>
-</item>
-<item>
-  <title>A guide to home row mods</title>
-  <link>https://precondition.github.io/home-row-mods</link>
-  <description><![CDATA[<img src='https://intersections.snnkv.com/meta/interpections.jpg' alt='' /><p>Гайд по настройке модификаторов на клавиатуре. Уровень исследования: 10 моих дипломных работ.</p>]]></description>
-  <pubDate>Mon, 02 Feb 2026 21:55:08 +0200</pubDate>
-  <guid>https://precondition.github.io/home-row-mods</guid>
 </item>
 </channel>
 </rss>
