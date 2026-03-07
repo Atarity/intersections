@@ -5,7 +5,14 @@
   <description>Лента почти полезных ссылок. Я кликал и не пожалел.</description>
   <link>https://snnkv.com/</link>
 
-  <lastBuildDate>Sat, 07 Mar 2026 22:57:49 +0200</lastBuildDate>
+  <lastBuildDate>Sat, 07 Mar 2026 23:03:57 +0200</lastBuildDate>
+<item>
+  <title>Читаю варгейм-джем 4</title>
+  <link>https://www.youtube.com/watch?v=DjbGxlySXC8</link>
+  <description><![CDATA[<img src='https://intersections.snnkv.com/meta/interpections.jpg' alt='' /><p>Чё только не бывает: Чайный Паладин разбирает русскоговорящий гейм-джем по варгеймам. Типичный варгейм это pdf на 80 страниц с правилами, половина из которых — таблицы.</p>]]></description>
+  <pubDate>Sat, 07 Mar 2026 23:03:57 +0200</pubDate>
+  <guid>https://www.youtube.com/watch?v=DjbGxlySXC8</guid>
+</item>
 <item>
   <title>Niri — Hyprland больше НЕ НУЖЕН</title>
   <link>https://www.youtube.com/watch?v=pcofhkTOYi0</link>
@@ -138,13 +145,6 @@
   <description><![CDATA[<img src='https://intersections.snnkv.com/meta/interpections.jpg' alt='' /><p>Зак Шольц делает уже третий подход к еврорэку. На этот раз Ezeptocore. Схемотехника открыта и основана на Plaits. Только в качестве мозгов там RP2040.</p>]]></description>
   <pubDate>Sat, 07 Feb 2026 18:22:43 +0200</pubDate>
   <guid>https://github.com/schollz/_core</guid>
-</item>
-<item>
-  <title>Digital Iris</title>
-  <link>https://www.youtube.com/watch?v=Kg_2MAgS_pE</link>
-  <description><![CDATA[<img src='https://intersections.snnkv.com/meta/interpections.jpg' alt='' /><p>Инженеры изобретают совершенно разную дичь из говна и ниток. Электронная шторка для вашей зекралки. Со всеми вытекающими «анимированными» боке.</p>]]></description>
-  <pubDate>Sat, 07 Feb 2026 17:48:07 +0200</pubDate>
-  <guid>https://www.youtube.com/watch?v=Kg_2MAgS_pE</guid>
 </item>
 </channel>
 </rss>
