@@ -5,7 +5,14 @@
   <description>Лента почти полезных ссылок. Я кликал и не пожалел.</description>
   <link>https://snnkv.com/</link>
 
-  <lastBuildDate>Sat, 07 Mar 2026 23:03:57 +0200</lastBuildDate>
+  <lastBuildDate>Sun, 08 Mar 2026 11:27:00 +0200</lastBuildDate>
+<item>
+  <title>C4KEW4LK/rpi_usb_ip_display</title>
+  <link>https://github.com/C4KEW4LK/rpi_usb_ip_display/tree/main/show_rpi_ip</link>
+  <description><![CDATA[<img src='https://intersections.snnkv.com/meta/interpections.jpg' alt='' /><p>Экран с USB-A. Втыкаешь в сервер и сразу видишь адреса всех его интерфейсов.</p>]]></description>
+  <pubDate>Sun, 08 Mar 2026 11:27:00 +0200</pubDate>
+  <guid>https://github.com/C4KEW4LK/rpi_usb_ip_display/tree/main/show_rpi_ip</guid>
+</item>
 <item>
   <title>Читаю варгейм-джем 4</title>
   <link>https://www.youtube.com/watch?v=DjbGxlySXC8</link>
@@ -138,13 +145,6 @@
   <description><![CDATA[<img src='https://intersections.snnkv.com/meta/interpections.jpg' alt='' /><p>Говорят текст никуда не денется и переживёт всех. &quot;I gave them all the YouTube Shorts they could ever desire and they’re still...reading!!&quot;</p>]]></description>
   <pubDate>Mon, 09 Feb 2026 11:43:08 +0200</pubDate>
   <guid>https://www.experimental-history.com/p/text-is-king</guid>
-</item>
-<item>
-  <title>GitHub - schollz/_core: firmware for the zeptocore, zeptoboard, ectocore, and ezeptocore</title>
-  <link>https://github.com/schollz/_core</link>
-  <description><![CDATA[<img src='https://intersections.snnkv.com/meta/interpections.jpg' alt='' /><p>Зак Шольц делает уже третий подход к еврорэку. На этот раз Ezeptocore. Схемотехника открыта и основана на Plaits. Только в качестве мозгов там RP2040.</p>]]></description>
-  <pubDate>Sat, 07 Feb 2026 18:22:43 +0200</pubDate>
-  <guid>https://github.com/schollz/_core</guid>
 </item>
 </channel>
 </rss>
