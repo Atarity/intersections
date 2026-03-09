@@ -5,7 +5,14 @@
   <description>Лента почти полезных ссылок. Я кликал и не пожалел.</description>
   <link>https://snnkv.com/</link>
 
-  <lastBuildDate>Sun, 08 Mar 2026 11:27:00 +0200</lastBuildDate>
+  <lastBuildDate>Mon, 09 Mar 2026 15:28:23 +0200</lastBuildDate>
+<item>
+  <title>手のひらサイズのからくりを作ってみた</title>
+  <link>https://www.youtube.com/watch?v=--qqFnPk3KM</link>
+  <description><![CDATA[<img src='https://intersections.snnkv.com/meta/interpections.jpg' alt='' /><p>Учебник по механике трещёток, но это Ниппония.</p>]]></description>
+  <pubDate>Mon, 09 Mar 2026 15:28:23 +0200</pubDate>
+  <guid>https://www.youtube.com/watch?v=--qqFnPk3KM</guid>
+</item>
 <item>
   <title>C4KEW4LK/rpi_usb_ip_display</title>
   <link>https://github.com/C4KEW4LK/rpi_usb_ip_display/tree/main/show_rpi_ip</link>
@@ -138,13 +145,6 @@
   <description><![CDATA[<img src='https://intersections.snnkv.com/meta/interpections.jpg' alt='' /><p>Надолго залип на странице с рендерами интерьера новой электрической Ferrari. Так хорошо у дизайнеров получается вписать прошлое в будущее и подружить паттерны из F1 с деталями тракторов.</p>]]></description>
   <pubDate>Wed, 11 Feb 2026 11:32:32 +0200</pubDate>
   <guid>https://www.ferrari.com/en-US/auto/ferrari-luce</guid>
-</item>
-<item>
-  <title>Text is king - by Adam Mastroianni</title>
-  <link>https://www.experimental-history.com/p/text-is-king</link>
-  <description><![CDATA[<img src='https://intersections.snnkv.com/meta/interpections.jpg' alt='' /><p>Говорят текст никуда не денется и переживёт всех. &quot;I gave them all the YouTube Shorts they could ever desire and they’re still...reading!!&quot;</p>]]></description>
-  <pubDate>Mon, 09 Feb 2026 11:43:08 +0200</pubDate>
-  <guid>https://www.experimental-history.com/p/text-is-king</guid>
 </item>
 </channel>
 </rss>
