@@ -54,7 +54,7 @@ main {
 
 .title {
     display: inline-block;
-    font-size: clamp(2rem, 8vw, 4.5rem);
+    font-size: clamp(3rem, 10vw, 4.5rem);
     line-height: 0.9;
     padding: 20px 0;
 }
@@ -81,10 +81,10 @@ main {
     display: flex;
     flex-direction: row;
     align-items: center;
-    /* justify-content: flex-end; */
     gap: clamp(1px, 0.2vw, 5px);
     padding: 10px 0 0 0;
     margin-bottom: 0 !important;
+    margin-left: auto;
 }
 
 .sidelinks a {
@@ -94,13 +94,9 @@ main {
     padding: 4px;
 }
 
-.sidelinks a.home-link {
-    margin-right: auto;
-}
-
 .sidelinks img {
-    width: clamp(1rem, 3vw, 1.6rem);
-    height: clamp(1rem, 3vw, 1.6rem);
+    width: clamp(1.3rem, 2vw, 1.6rem);
+    height: clamp(1.3rem, 2vw, 1.6rem);
     opacity: 0.2;
     transition: opacity 0.2s ease;
 }
@@ -232,14 +228,14 @@ article .comment {
 
 footer {
     border-top: 1px solid black;
-    /* Match decades exactly */
+    /* Match Decades exactly */
     padding-top: 20px;
     margin-top: 60px;
     font-size: 14px;
     color: #000;
 }
 
-@media (max-width: 600px) {
+@media (max-width: 720px) {
     body {
         padding: 10px;
         padding-top: calc(10px + env(safe-area-inset-top));
@@ -249,6 +245,14 @@ footer {
     }
 
     .title {
-        font-size: 2.5rem;
+        display: block;
+        width: 100%;
+        font-size: 13vw;
+    }
+
+    .sidelinks {
+        margin-left: 0 !important;
+        margin-right: 0 !important;
+        justify-content: center;
     }
 }
