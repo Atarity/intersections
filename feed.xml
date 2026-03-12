@@ -5,7 +5,14 @@
   <description>Лента почти полезных ссылок. Я кликал и не пожалел.</description>
   <link>https://snnkv.com/</link>
 
-  <lastBuildDate>Wed, 11 Mar 2026 13:01:11 +0200</lastBuildDate>
+  <lastBuildDate>Thu, 12 Mar 2026 14:07:34 +0200</lastBuildDate>
+<item>
+  <title>Plasma Toroid Generator</title>
+  <link>https://makezine.com/projects/plasma-toroid-generator/</link>
+  <description><![CDATA[<img src='https://intersections.snnkv.com/meta/interpections.jpg' alt='' /><p>Рассказали как сделать пончик из плазмы, но забыли рассказать где купить колбу с ксеноном. Открытый проект, клёвые фотки.</p>]]></description>
+  <pubDate>Thu, 12 Mar 2026 14:07:34 +0200</pubDate>
+  <guid>https://makezine.com/projects/plasma-toroid-generator/</guid>
+</item>
 <item>
   <title>The Dark Factory Is a .dot file — 2389 Research, Inc</title>
   <link>https://2389.ai/posts/the-dark-factory-is-a-dot-file/</link>
@@ -138,13 +145,6 @@
   <description><![CDATA[<img src='https://intersections.snnkv.com/meta/interpections.jpg' alt='' /><p>Зачем думать о Римской Империи, когда можно думать о лоре Черепашек Ниндзя?</p>]]></description>
   <pubDate>Sun, 15 Feb 2026 14:45:21 +0200</pubDate>
   <guid>https://www.youtube.com/watch?v=J508n21_3mw</guid>
-</item>
-<item>
-  <title>The third golden age of software engineering – thanks to AI, with Grady Booch</title>
-  <link>https://newsletter.pragmaticengineer.com/p/the-third-golden-age-of-software?hide_intro_popup=true</link>
-  <description><![CDATA[<img src='https://intersections.snnkv.com/meta/interpections.jpg' alt='' /><p>Гради Буч, по книжкам которого я учился в вузе, говорит &quot;Всё нормально. Just keep building.&quot; Если уж не верить дедам, то непонятно кому вообще тогда верить.</p>]]></description>
-  <pubDate>Sun, 15 Feb 2026 13:55:50 +0200</pubDate>
-  <guid>https://newsletter.pragmaticengineer.com/p/the-third-golden-age-of-software?hide_intro_popup=true</guid>
 </item>
 </channel>
 </rss>
