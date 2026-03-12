@@ -134,6 +134,8 @@ article .entry-title {
     font-weight: 700;
     display: block;
     line-height: 1.2;
+    overflow-wrap: break-word;
+    word-break: break-word;
 }
 
 article .entry-title a {
