@@ -5,7 +5,14 @@
   <description>Лента почти полезных ссылок. Я кликал и не пожалел.</description>
   <link>https://snnkv.com/</link>
 
-  <lastBuildDate>Thu, 12 Mar 2026 14:28:39 +0200</lastBuildDate>
+  <lastBuildDate>Fri, 13 Mar 2026 22:18:07 +0200</lastBuildDate>
+<item>
+  <title>TUIStudio — Design Terminal UIs. Visually.</title>
+  <link>https://tui.studio/</link>
+  <description><![CDATA[<img src='https://intersections.snnkv.com/meta/interpections.jpg' alt='' /><p>Пусть у них получится генерить код из этой рисовалки во все 6 фреймворков. Я ждал Фигмы для TUI всю жизнь.</p>]]></description>
+  <pubDate>Fri, 13 Mar 2026 22:18:07 +0200</pubDate>
+  <guid>https://tui.studio/</guid>
+</item>
 <item>
   <title>Prototyping Shots of Isokon&#x27;s Bent Plywood Join Collection</title>
   <link>https://www.core77.com/posts/142445/Prototyping-Shots-of-Isokons-Bent-Plywood-Join-Collection</link>
@@ -138,13 +145,6 @@
   <description><![CDATA[<img src='https://intersections.snnkv.com/meta/interpections.jpg' alt='' /><p>Даже Блокнот в Windows научился понимать и редактировать Markdown. А Google Drive даже просматривать их нормально не умеет до сих пор.</p>]]></description>
   <pubDate>Thu, 26 Feb 2026 17:12:06 +0200</pubDate>
   <guid>https://blogs.windows.com/windows-insider/2026/01/21/notepad-and-paint-updates-begin-rolling-out-to-windows-insiders/</guid>
-</item>
-<item>
-  <title>Building in private</title>
-  <link>https://www.ystrickler.com/building-private/</link>
-  <description><![CDATA[<img src='https://intersections.snnkv.com/meta/interpections.jpg' alt='' /><p>Есть люди с какими-то гиперглобальными идеями, которым, наверняка, не суждено сбыться в ближайшем будущем. Но почитать о них всегда интересно.</p>]]></description>
-  <pubDate>Mon, 23 Feb 2026 12:55:40 +0200</pubDate>
-  <guid>https://www.ystrickler.com/building-private/</guid>
 </item>
 </channel>
 </rss>
