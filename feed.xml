@@ -5,7 +5,14 @@
   <description>Лента почти полезных ссылок. Я кликал и не пожалел.</description>
   <link>https://snnkv.com/</link>
 
-  <lastBuildDate>Fri, 13 Mar 2026 22:18:07 +0200</lastBuildDate>
+  <lastBuildDate>Fri, 13 Mar 2026 23:33:14 +0200</lastBuildDate>
+<item>
+  <title>Apple Finally Made a Repairable MacBook</title>
+  <link>https://www.youtube.com/watch?v=PbPCGqoBB4Y</link>
+  <description><![CDATA[<img src='https://intersections.snnkv.com/meta/interpections.jpg' alt='' /><p>Триллион винтов, которые теперь можно откручивать. Не знаю хорошо это или нет, но такое теперь просит Еврокомиcсия и Эплу, похоже, проще подчиниться. Отличный момент когда они сравнивают материнки. Вспоминаю свою любимую Epox 8RDA3+ под Socket A и реву.</p>]]></description>
+  <pubDate>Fri, 13 Mar 2026 23:33:14 +0200</pubDate>
+  <guid>https://www.youtube.com/watch?v=PbPCGqoBB4Y</guid>
+</item>
 <item>
   <title>TUIStudio — Design Terminal UIs. Visually.</title>
   <link>https://tui.studio/</link>
@@ -138,13 +145,6 @@
   <description><![CDATA[<img src='https://intersections.snnkv.com/meta/interpections.jpg' alt='' /><p>Мы, говорит, проанализировали скриншоты 2.5 тыс японских сайтов и пришли к выводу: японцы с другой планеты. Там, конечно, пытаются найти концы в ранних нулевых. И вообще: у исследования есть методология.</p>]]></description>
   <pubDate>Thu, 26 Feb 2026 17:37:08 +0200</pubDate>
   <guid>https://sabrinas.space/</guid>
-</item>
-<item>
-  <title>Notepad and Paint updates begin rolling out to Windows Insiders</title>
-  <link>https://blogs.windows.com/windows-insider/2026/01/21/notepad-and-paint-updates-begin-rolling-out-to-windows-insiders/</link>
-  <description><![CDATA[<img src='https://intersections.snnkv.com/meta/interpections.jpg' alt='' /><p>Даже Блокнот в Windows научился понимать и редактировать Markdown. А Google Drive даже просматривать их нормально не умеет до сих пор.</p>]]></description>
-  <pubDate>Thu, 26 Feb 2026 17:12:06 +0200</pubDate>
-  <guid>https://blogs.windows.com/windows-insider/2026/01/21/notepad-and-paint-updates-begin-rolling-out-to-windows-insiders/</guid>
 </item>
 </channel>
 </rss>
