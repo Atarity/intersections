@@ -5,7 +5,14 @@
   <description>Лента почти полезных ссылок. Я кликал и не пожалел.</description>
   <link>https://snnkv.com/</link>
 
-  <lastBuildDate>Wed, 18 Mar 2026 15:42:42 +0200</lastBuildDate>
+  <lastBuildDate>Wed, 18 Mar 2026 15:55:17 +0200</lastBuildDate>
+<item>
+  <title>Give Django your time and money, not your tokens</title>
+  <link>https://www.better-simple.com/django/2026/03/16/give-django-your-time-and-money/</link>
+  <description><![CDATA[<img src='https://intersections.snnkv.com/meta/interpections.jpg' alt='' /><p>Даже в моих немногочисленных репозиториях начали появляться пуллреквесты и ишью от LLM и такие же сгенерённые каменты. И бывает что уходят минуты прежде чем я пойму, что это мусор. Ужасные ощущения. &quot;If you do not understand the ticket, if you do not understand the solution, or if you do not understand the feedback on your PR, then your use of LLM is hurting Django as a whole.&quot;</p>]]></description>
+  <pubDate>Wed, 18 Mar 2026 15:55:17 +0200</pubDate>
+  <guid>https://www.better-simple.com/django/2026/03/16/give-django-your-time-and-money/</guid>
+</item>
 <item>
   <title>Apple Exclaves and the Secure Design of the MacBook Neo’s On-Screen Camera Indicator</title>
   <link>https://daringfireball.net/2026/03/apple_enclaves_neo_camera_indicator</link>
@@ -138,13 +145,6 @@
   <description><![CDATA[<img src='https://intersections.snnkv.com/meta/interpections.jpg' alt='' /><p>Мой первый и последний кассетный плеер. Прекрасная база устройств.</p>]]></description>
   <pubDate>Mon, 02 Mar 2026 13:02:24 +0200</pubDate>
   <guid>https://walkman.land/sony/wm-fx173</guid>
-</item>
-<item>
-  <title>Banned in California — Why You Can&#x27;t Build Anything in the Golden State</title>
-  <link>https://www.bannedincalifornia.org/</link>
-  <description><![CDATA[<img src='https://intersections.snnkv.com/meta/interpections.jpg' alt='' /><p>Короткая и точная инфографика о том почему я не могу начать производить в Калифорнии собственный смартфон или автомобиль. Если присмотреться, все запрещённые технологии связаны с химией или электрохимией. Калифорнию тут можно заменить на любую развитую территорию: Европу, Тайвань, или даже прибрежные районы Китая.</p>]]></description>
-  <pubDate>Sun, 01 Mar 2026 18:36:52 +0200</pubDate>
-  <guid>https://www.bannedincalifornia.org/</guid>
 </item>
 </channel>
 </rss>
