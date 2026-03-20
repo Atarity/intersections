@@ -51,7 +51,7 @@ fi
 comment_html=""
 if [ -n "$comment" ]; then
     comment_html="<div class='comment-wrapper'>
-    <div class='avatar'><img src='meta/avatar-bl.svg' alt=''></div>
+    <div class='avatar'><img src='pics/avatar-bl.svg' alt=''></div>
     <p class='comment'>$comment</p>
   </div>"
 fi

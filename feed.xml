@@ -9,140 +9,140 @@
 <item>
   <title>Give Django your time and money, not your tokens</title>
   <link>https://www.better-simple.com/django/2026/03/16/give-django-your-time-and-money/</link>
-  <description><![CDATA[<img src='https://intersections.snnkv.com/meta/interpections.jpg' alt='' /><p>Даже в моих немногочисленных репозиториях начали появляться пуллреквесты и ишью от LLM и такие же сгенерённые каменты. И бывает что уходят минуты прежде чем я пойму, что это мусор. Ужасные ощущения. &quot;If you do not understand the ticket, if you do not understand the solution, or if you do not understand the feedback on your PR, then your use of LLM is hurting Django as a whole.&quot;</p>]]></description>
+  <description><![CDATA[<img src='https://intersections.snnkv.com/pics/interpections.jpg' alt='' /><p>Даже в моих немногочисленных репозиториях начали появляться пуллреквесты и ишью от LLM и такие же сгенерённые каменты. И бывает что уходят минуты прежде чем я пойму, что это мусор. Ужасные ощущения. &quot;If you do not understand the ticket, if you do not understand the solution, or if you do not understand the feedback on your PR, then your use of LLM is hurting Django as a whole.&quot;</p>]]></description>
   <pubDate>Wed, 18 Mar 2026 15:55:17 +0200</pubDate>
   <guid>https://www.better-simple.com/django/2026/03/16/give-django-your-time-and-money/</guid>
 </item>
 <item>
   <title>Apple Exclaves and the Secure Design of the MacBook Neo’s On-Screen Camera Indicator</title>
   <link>https://daringfireball.net/2026/03/apple_enclaves_neo_camera_indicator</link>
-  <description><![CDATA[<img src='https://intersections.snnkv.com/meta/interpections.jpg' alt='' /><p>On-screen индикатор камеры на дешёвых макбуках (у которых нет хардварного индикатора-светодиода) управляется из отдельной RTOS которая исполняется в изолированном сегменте проца. По-русски: даже если кто-то взломает вашу МакОС до самого ядра у него всё-равно не получится включить камеру без индикатора.</p>]]></description>
+  <description><![CDATA[<img src='https://intersections.snnkv.com/pics/interpections.jpg' alt='' /><p>On-screen индикатор камеры на дешёвых макбуках (у которых нет хардварного индикатора-светодиода) управляется из отдельной RTOS которая исполняется в изолированном сегменте проца. По-русски: даже если кто-то взломает вашу МакОС до самого ядра у него всё-равно не получится включить камеру без индикатора.</p>]]></description>
   <pubDate>Wed, 18 Mar 2026 15:42:42 +0200</pubDate>
   <guid>https://daringfireball.net/2026/03/apple_enclaves_neo_camera_indicator</guid>
 </item>
 <item>
   <title>Atarity/deploy-your-own-saas</title>
   <link>https://github.com/Atarity/deploy-your-own-saas</link>
-  <description><![CDATA[<img src='https://intersections.snnkv.com/meta/interpections.jpg' alt='' /><p>Автоматизировал проверку живучести репозиториев из своего selfhosted списка. Почему столько лет спустя люди продолжают этим списком пользоваться для меня загадка.</p>]]></description>
+  <description><![CDATA[<img src='https://intersections.snnkv.com/pics/interpections.jpg' alt='' /><p>Автоматизировал проверку живучести репозиториев из своего selfhosted списка. Почему столько лет спустя люди продолжают этим списком пользоваться для меня загадка.</p>]]></description>
   <pubDate>Sat, 14 Mar 2026 19:21:55 +0200</pubDate>
   <guid>https://github.com/Atarity/deploy-your-own-saas</guid>
 </item>
 <item>
   <title>NARF - Quad Sequential Midi Sequencer</title>
   <link>https://llllllll.co/t/narf-quad-sequential-midi-sequencer/74168</link>
-  <description><![CDATA[<img src='https://intersections.snnkv.com/meta/interpections.jpg' alt='' /><p>Весь этот эйай спровоцировал целую волну новых апплетов для Norns. Я слежу за их форумом и там по несколько релизов в неделю. Хотя раньше посты с новинками появлялись, может, по одному в месяц.</p>]]></description>
+  <description><![CDATA[<img src='https://intersections.snnkv.com/pics/interpections.jpg' alt='' /><p>Весь этот эйай спровоцировал целую волну новых апплетов для Norns. Я слежу за их форумом и там по несколько релизов в неделю. Хотя раньше посты с новинками появлялись, может, по одному в месяц.</p>]]></description>
   <pubDate>Fri, 13 Mar 2026 23:41:49 +0200</pubDate>
   <guid>https://llllllll.co/t/narf-quad-sequential-midi-sequencer/74168</guid>
 </item>
 <item>
   <title>Apple Finally Made a Repairable MacBook</title>
   <link>https://www.youtube.com/watch?v=PbPCGqoBB4Y</link>
-  <description><![CDATA[<img src='https://intersections.snnkv.com/meta/interpections.jpg' alt='' /><p>Триллион винтов, которые теперь можно откручивать. Не знаю хорошо это или нет, но такое теперь просит Еврокомиcсия и Эплу, похоже, проще подчиниться. Отличный момент когда они сравнивают материнки. Вспоминаю свою любимую Epox 8RDA3+ под Socket A и реву.</p>]]></description>
+  <description><![CDATA[<img src='https://intersections.snnkv.com/pics/interpections.jpg' alt='' /><p>Триллион винтов, которые теперь можно откручивать. Не знаю хорошо это или нет, но такое теперь просит Еврокомиcсия и Эплу, похоже, проще подчиниться. Отличный момент когда они сравнивают материнки. Вспоминаю свою любимую Epox 8RDA3+ под Socket A и реву.</p>]]></description>
   <pubDate>Fri, 13 Mar 2026 23:33:14 +0200</pubDate>
   <guid>https://www.youtube.com/watch?v=PbPCGqoBB4Y</guid>
 </item>
 <item>
   <title>TUIStudio — Design Terminal UIs. Visually.</title>
   <link>https://tui.studio/</link>
-  <description><![CDATA[<img src='https://intersections.snnkv.com/meta/interpections.jpg' alt='' /><p>Пусть у них получится генерить код из этой рисовалки во все 6 фреймворков. Я ждал Фигмы для TUI всю жизнь.</p>]]></description>
+  <description><![CDATA[<img src='https://intersections.snnkv.com/pics/interpections.jpg' alt='' /><p>Пусть у них получится генерить код из этой рисовалки во все 6 фреймворков. Я ждал Фигмы для TUI всю жизнь.</p>]]></description>
   <pubDate>Fri, 13 Mar 2026 22:18:07 +0200</pubDate>
   <guid>https://tui.studio/</guid>
 </item>
 <item>
   <title>Prototyping Shots of Isokon&#x27;s Bent Plywood Join Collection</title>
   <link>https://www.core77.com/posts/142445/Prototyping-Shots-of-Isokons-Bent-Plywood-Join-Collection</link>
-  <description><![CDATA[<img src='https://intersections.snnkv.com/meta/interpections.jpg' alt='' /><p>Если я где-то вижу стул или, тем более, скамейку из фанеры — сразу иду на нём сидеть.</p>]]></description>
+  <description><![CDATA[<img src='https://intersections.snnkv.com/pics/interpections.jpg' alt='' /><p>Если я где-то вижу стул или, тем более, скамейку из фанеры — сразу иду на нём сидеть.</p>]]></description>
   <pubDate>Thu, 12 Mar 2026 14:28:39 +0200</pubDate>
   <guid>https://www.core77.com/posts/142445/Prototyping-Shots-of-Isokons-Bent-Plywood-Join-Collection</guid>
 </item>
 <item>
   <title>LEGO&#x27;s 0.002mm Specification and It&#x27;s Implications for Manufacturing</title>
   <link>https://www.thewave.engineer/articles.html/productivity/legos-0002mm-specification-and-its-implications-for-manufacturing-r120/</link>
-  <description><![CDATA[<img src='https://intersections.snnkv.com/meta/interpections.jpg' alt='' /><p>Тут говорят, что знаменитые допуски для Лего-кирпичей в 0.002мм не то, чем кажутся и на деле в производстве применяется 0.01мм. Но даже это всё-равно прицезионный допуск для ABS отливок и с такими высокими требованиями они получают аж 2-5% брака (дофига) на который готовы пойти ради полной совместимости кубов среди всех своих триллионов наборов.</p>]]></description>
+  <description><![CDATA[<img src='https://intersections.snnkv.com/pics/interpections.jpg' alt='' /><p>Тут говорят, что знаменитые допуски для Лего-кирпичей в 0.002мм не то, чем кажутся и на деле в производстве применяется 0.01мм. Но даже это всё-равно прицезионный допуск для ABS отливок и с такими высокими требованиями они получают аж 2-5% брака (дофига) на который готовы пойти ради полной совместимости кубов среди всех своих триллионов наборов.</p>]]></description>
   <pubDate>Thu, 12 Mar 2026 14:23:49 +0200</pubDate>
   <guid>https://www.thewave.engineer/articles.html/productivity/legos-0002mm-specification-and-its-implications-for-manufacturing-r120/</guid>
 </item>
 <item>
   <title>Fixtureworks.com</title>
   <link>https://www.fixtureworks.com/store/pc/home</link>
-  <description><![CDATA[<img src='https://intersections.snnkv.com/meta/interpections.jpg' alt='' /><p>Открыл для себя мир всех этих дорогих замков, фиксаторов, ручек и странных метизов для механических оснасток и станков. Хочется сразу их все купить, а уже потом придумывать чё с ними делать.</p>]]></description>
+  <description><![CDATA[<img src='https://intersections.snnkv.com/pics/interpections.jpg' alt='' /><p>Открыл для себя мир всех этих дорогих замков, фиксаторов, ручек и странных метизов для механических оснасток и станков. Хочется сразу их все купить, а уже потом придумывать чё с ними делать.</p>]]></description>
   <pubDate>Thu, 12 Mar 2026 14:11:06 +0200</pubDate>
   <guid>https://www.fixtureworks.com/store/pc/home</guid>
 </item>
 <item>
   <title>Plasma Toroid Generator</title>
   <link>https://makezine.com/projects/plasma-toroid-generator/</link>
-  <description><![CDATA[<img src='https://intersections.snnkv.com/meta/interpections.jpg' alt='' /><p>Рассказали как сделать пончик из плазмы, но забыли рассказать где купить колбу с ксеноном. Открытый проект, клёвые фотки.</p>]]></description>
+  <description><![CDATA[<img src='https://intersections.snnkv.com/pics/interpections.jpg' alt='' /><p>Рассказали как сделать пончик из плазмы, но забыли рассказать где купить колбу с ксеноном. Открытый проект, клёвые фотки.</p>]]></description>
   <pubDate>Thu, 12 Mar 2026 14:07:34 +0200</pubDate>
   <guid>https://makezine.com/projects/plasma-toroid-generator/</guid>
 </item>
 <item>
   <title>The Dark Factory Is a .dot file — 2389 Research, Inc</title>
   <link>https://2389.ai/posts/the-dark-factory-is-a-dot-file/</link>
-  <description><![CDATA[<img src='https://intersections.snnkv.com/meta/interpections.jpg' alt='' /><p>Даже самый продвинутый пайплайн работы с агентами сегодня полностью построен на белковых парадигмах разработки. Все эти «брэйништорминг → драфт → план → критерии приёмки» выглядят пайплайнами которыми думает исключительно человек из-за особенностей восприятия его мозга. Это как делать селфдрайвинг при помощи антропоморфного робота который будет крутить головой и рулить руками.</p>]]></description>
+  <description><![CDATA[<img src='https://intersections.snnkv.com/pics/interpections.jpg' alt='' /><p>Даже самый продвинутый пайплайн работы с агентами сегодня полностью построен на белковых парадигмах разработки. Все эти «брэйништорминг → драфт → план → критерии приёмки» выглядят пайплайнами которыми думает исключительно человек из-за особенностей восприятия его мозга. Это как делать селфдрайвинг при помощи антропоморфного робота который будет крутить головой и рулить руками.</p>]]></description>
   <pubDate>Wed, 11 Mar 2026 13:01:11 +0200</pubDate>
   <guid>https://2389.ai/posts/the-dark-factory-is-a-dot-file/</guid>
 </item>
 <item>
   <title>tropes.md</title>
   <link>https://tropes.fyi/tropes-md</link>
-  <description><![CDATA[<img src='https://intersections.snnkv.com/meta/interpections.jpg' alt='' /><p>Чё-то пока больше хочется эти паттерны в свой английский добавить, чем из английского нейронок вырезать.)</p>]]></description>
+  <description><![CDATA[<img src='https://intersections.snnkv.com/pics/interpections.jpg' alt='' /><p>Чё-то пока больше хочется эти паттерны в свой английский добавить, чем из английского нейронок вырезать.)</p>]]></description>
   <pubDate>Mon, 09 Mar 2026 15:31:22 +0200</pubDate>
   <guid>https://tropes.fyi/tropes-md</guid>
 </item>
 <item>
   <title>手のひらサイズのからくりを作ってみた</title>
   <link>https://www.youtube.com/watch?v=--qqFnPk3KM</link>
-  <description><![CDATA[<img src='https://intersections.snnkv.com/meta/interpections.jpg' alt='' /><p>Учебник по механике трещёток, но это Ниппония.</p>]]></description>
+  <description><![CDATA[<img src='https://intersections.snnkv.com/pics/interpections.jpg' alt='' /><p>Учебник по механике трещёток, но это Ниппония.</p>]]></description>
   <pubDate>Mon, 09 Mar 2026 15:28:23 +0200</pubDate>
   <guid>https://www.youtube.com/watch?v=--qqFnPk3KM</guid>
 </item>
 <item>
   <title>C4KEW4LK/rpi_usb_ip_display</title>
   <link>https://github.com/C4KEW4LK/rpi_usb_ip_display/tree/main/show_rpi_ip</link>
-  <description><![CDATA[<img src='https://intersections.snnkv.com/meta/interpections.jpg' alt='' /><p>Экран с USB-A. Втыкаешь в сервер и сразу видишь адреса всех его интерфейсов.</p>]]></description>
+  <description><![CDATA[<img src='https://intersections.snnkv.com/pics/interpections.jpg' alt='' /><p>Экран с USB-A. Втыкаешь в сервер и сразу видишь адреса всех его интерфейсов.</p>]]></description>
   <pubDate>Sun, 08 Mar 2026 11:27:00 +0200</pubDate>
   <guid>https://github.com/C4KEW4LK/rpi_usb_ip_display/tree/main/show_rpi_ip</guid>
 </item>
 <item>
   <title>Читаю варгейм-джем 4</title>
   <link>https://www.youtube.com/watch?v=DjbGxlySXC8</link>
-  <description><![CDATA[<img src='https://intersections.snnkv.com/meta/interpections.jpg' alt='' /><p>Чё только не бывает: Чайный Паладин разбирает русскоговорящий гейм-джем по варгеймам. Типичный варгейм это pdf на 80 страниц с правилами, половина из которых — таблицы.</p>]]></description>
+  <description><![CDATA[<img src='https://intersections.snnkv.com/pics/interpections.jpg' alt='' /><p>Чё только не бывает: Чайный Паладин разбирает русскоговорящий гейм-джем по варгеймам. Типичный варгейм это pdf на 80 страниц с правилами, половина из которых — таблицы.</p>]]></description>
   <pubDate>Sat, 07 Mar 2026 23:03:57 +0200</pubDate>
   <guid>https://www.youtube.com/watch?v=DjbGxlySXC8</guid>
 </item>
 <item>
   <title>Niri — Hyprland больше НЕ НУЖЕН</title>
   <link>https://www.youtube.com/watch?v=pcofhkTOYi0</link>
-  <description><![CDATA[<img src='https://intersections.snnkv.com/meta/interpections.jpg' alt='' /><p>По-моему двумерная 90-градусная раскладка столов всегда была самой простой для удержания в голове в виде карты. Нравится что столы и тайлы могут быть в рассинхроне: тайлы не обязательно влазят в стол целиком.</p>]]></description>
+  <description><![CDATA[<img src='https://intersections.snnkv.com/pics/interpections.jpg' alt='' /><p>По-моему двумерная 90-градусная раскладка столов всегда была самой простой для удержания в голове в виде карты. Нравится что столы и тайлы могут быть в рассинхроне: тайлы не обязательно влазят в стол целиком.</p>]]></description>
   <pubDate>Sat, 07 Mar 2026 22:57:49 +0200</pubDate>
   <guid>https://www.youtube.com/watch?v=pcofhkTOYi0</guid>
 </item>
 <item>
   <title>НейроКачки Выпуск 0005 | Как UI дизайнер использует нейронки</title>
   <link>https://www.youtube.com/watch?v=HfUgN-C1Czc</link>
-  <description><![CDATA[<img src='https://intersections.snnkv.com/meta/interpections.jpg' alt='' /><p>Отличный гость Артём Ra. Нравится его творчество.</p>]]></description>
+  <description><![CDATA[<img src='https://intersections.snnkv.com/pics/interpections.jpg' alt='' /><p>Отличный гость Артём Ra. Нравится его творчество.</p>]]></description>
   <pubDate>Wed, 04 Mar 2026 20:37:00 +0200</pubDate>
   <guid>https://www.youtube.com/watch?v=HfUgN-C1Czc</guid>
 </item>
 <item>
   <title>Дроны повредили три дата-центра Amazon в ОАЭ и Бахрейне</title>
   <link>https://meduza.io/news/2026/03/03/drony-povredili-tri-data-tsentra-amazon-v-oae-i-bahreyne</link>
-  <description><![CDATA[<img src='https://intersections.snnkv.com/meta/interpections.jpg' alt='' /><p>Ещё один троп из киберпанк-книжек 90х стал нашей реальностью.</p>]]></description>
+  <description><![CDATA[<img src='https://intersections.snnkv.com/pics/interpections.jpg' alt='' /><p>Ещё один троп из киберпанк-книжек 90х стал нашей реальностью.</p>]]></description>
   <pubDate>Tue, 03 Mar 2026 12:48:07 +0200</pubDate>
   <guid>https://meduza.io/news/2026/03/03/drony-povredili-tri-data-tsentra-amazon-v-oae-i-bahreyne</guid>
 </item>
 <item>
   <title>Knot Tying Tutorial</title>
   <link>https://www.youtube.com/watch?v=0e-LYGgnLm4</link>
-  <description><![CDATA[<img src='https://intersections.snnkv.com/meta/interpections.jpg' alt='' /><p>Том Сакс учит нас вязать узлы под звуки муга с единственным LFO (впрочем, это его типичный саундтрек). Я умею вязать только рыбацкие пидзен, клинч и морковку. Ни один из них не поможет мне вытащить машину из кювета или хотя бы подвесить что-то к перекладине. Узлы нужно тренировать: забыть технику проще простого.</p>]]></description>
+  <description><![CDATA[<img src='https://intersections.snnkv.com/pics/interpections.jpg' alt='' /><p>Том Сакс учит нас вязать узлы под звуки муга с единственным LFO (впрочем, это его типичный саундтрек). Я умею вязать только рыбацкие пидзен, клинч и морковку. Ни один из них не поможет мне вытащить машину из кювета или хотя бы подвесить что-то к перекладине. Узлы нужно тренировать: забыть технику проще простого.</p>]]></description>
   <pubDate>Mon, 02 Mar 2026 23:58:31 +0200</pubDate>
   <guid>https://www.youtube.com/watch?v=0e-LYGgnLm4</guid>
 </item>
 <item>
   <title>Sony WM-FX173 ▶ Walkman.land</title>
   <link>https://walkman.land/sony/wm-fx173</link>
-  <description><![CDATA[<img src='https://intersections.snnkv.com/meta/interpections.jpg' alt='' /><p>Мой первый и последний кассетный плеер. Прекрасная база устройств.</p>]]></description>
+  <description><![CDATA[<img src='https://intersections.snnkv.com/pics/interpections.jpg' alt='' /><p>Мой первый и последний кассетный плеер. Прекрасная база устройств.</p>]]></description>
   <pubDate>Mon, 02 Mar 2026 13:02:24 +0200</pubDate>
   <guid>https://walkman.land/sony/wm-fx173</guid>
 </item>
