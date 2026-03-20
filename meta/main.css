@@ -194,7 +194,7 @@ article .avatar-anchor {
     inset: 0;
     opacity: 0;
     background-color: rgba(255, 255, 255, 0.85);
-    background-image: url("link.svg");
+    background-image: url("../pics/link.svg");
     background-repeat: no-repeat;
     background-position: center;
     background-size: 2em 2em;
