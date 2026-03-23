@@ -5,7 +5,14 @@
   <description>Лента почти полезных ссылок. Я кликал и не пожалел.</description>
   <link>https://snnkv.com/</link>
 
-  <lastBuildDate>Wed, 18 Mar 2026 15:55:17 +0200</lastBuildDate>
+  <lastBuildDate>Tue, 24 Mar 2026 00:19:46 +0200</lastBuildDate>
+<item>
+  <title>Tekken - The Difference Between 2D and 3D</title>
+  <link>https://www.youtube.com/watch?v=YGSkWVXE2mo</link>
+  <description><![CDATA[<img src='https://intersections.snnkv.com/pics/interpections.jpg' alt='' /><p>Файтинги сегодня, наверное, самый синтетический жанр видеоигр. Там итак было мало места для геймдизайна, поэтому за десятилетия это немногое отполировали до блеска.</p>]]></description>
+  <pubDate>Tue, 24 Mar 2026 00:19:46 +0200</pubDate>
+  <guid>https://www.youtube.com/watch?v=YGSkWVXE2mo</guid>
+</item>
 <item>
   <title>Give Django your time and money, not your tokens</title>
   <link>https://www.better-simple.com/django/2026/03/16/give-django-your-time-and-money/</link>
@@ -138,13 +145,6 @@
   <description><![CDATA[<img src='https://intersections.snnkv.com/pics/interpections.jpg' alt='' /><p>Том Сакс учит нас вязать узлы под звуки муга с единственным LFO (впрочем, это его типичный саундтрек). Я умею вязать только рыбацкие пидзен, клинч и морковку. Ни один из них не поможет мне вытащить машину из кювета или хотя бы подвесить что-то к перекладине. Узлы нужно тренировать: забыть технику проще простого.</p>]]></description>
   <pubDate>Mon, 02 Mar 2026 23:58:31 +0200</pubDate>
   <guid>https://www.youtube.com/watch?v=0e-LYGgnLm4</guid>
-</item>
-<item>
-  <title>Sony WM-FX173 ▶ Walkman.land</title>
-  <link>https://walkman.land/sony/wm-fx173</link>
-  <description><![CDATA[<img src='https://intersections.snnkv.com/pics/interpections.jpg' alt='' /><p>Мой первый и последний кассетный плеер. Прекрасная база устройств.</p>]]></description>
-  <pubDate>Mon, 02 Mar 2026 13:02:24 +0200</pubDate>
-  <guid>https://walkman.land/sony/wm-fx173</guid>
 </item>
 </channel>
 </rss>
