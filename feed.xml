@@ -5,7 +5,14 @@
   <description>Лента почти полезных ссылок. Я кликал и не пожалел.</description>
   <link>https://snnkv.com/</link>
 
-  <lastBuildDate>Thu, 26 Mar 2026 13:06:10 +0200</lastBuildDate>
+  <lastBuildDate>Mon, 30 Mar 2026 15:16:19 +0300</lastBuildDate>
+<item>
+  <title>VHS Slipcover Maker</title>
+  <link>https://vhs.texs.org/</link>
+  <description><![CDATA[<img src='https://intersections.snnkv.com/pics/interpections.jpg' alt='' /><p>Конструктор обложек всего подряд. От VHS-кассет до коробки игральных карт. Для генерации обложки можно просто воспользоваться поиском.</p>]]></description>
+  <pubDate>Mon, 30 Mar 2026 15:16:19 +0300</pubDate>
+  <guid>https://vhs.texs.org/</guid>
+</item>
 <item>
   <title>The Old Internet is Still Here</title>
   <link>https://tylergaw.com/blog/the-old-internet-is-still-here/</link>
@@ -138,13 +145,6 @@
   <description><![CDATA[<img src='https://intersections.snnkv.com/pics/interpections.jpg' alt='' /><p>Отличный гость Артём Ra. Нравится его творчество.</p>]]></description>
   <pubDate>Wed, 04 Mar 2026 20:37:00 +0200</pubDate>
   <guid>https://www.youtube.com/watch?v=HfUgN-C1Czc</guid>
-</item>
-<item>
-  <title>Дроны повредили три дата-центра Amazon в ОАЭ и Бахрейне</title>
-  <link>https://meduza.io/news/2026/03/03/drony-povredili-tri-data-tsentra-amazon-v-oae-i-bahreyne</link>
-  <description><![CDATA[<img src='https://intersections.snnkv.com/pics/interpections.jpg' alt='' /><p>Ещё один троп из киберпанк-книжек 90х стал нашей реальностью.</p>]]></description>
-  <pubDate>Tue, 03 Mar 2026 12:48:07 +0200</pubDate>
-  <guid>https://meduza.io/news/2026/03/03/drony-povredili-tri-data-tsentra-amazon-v-oae-i-bahreyne</guid>
 </item>
 </channel>
 </rss>
