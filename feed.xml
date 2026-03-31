@@ -5,7 +5,14 @@
   <description>Лента почти полезных ссылок. Я кликал и не пожалел.</description>
   <link>https://snnkv.com/</link>
 
-  <lastBuildDate>Tue, 31 Mar 2026 11:28:17 +0300</lastBuildDate>
+  <lastBuildDate>Tue, 31 Mar 2026 11:35:20 +0300</lastBuildDate>
+<item>
+  <title>In The Making: Atmos | Jaeger-LeCoultre</title>
+  <link>https://www.youtube.com/watch?v=ibSqAw9Jg9w</link>
+  <description><![CDATA[<img src='https://intersections.snnkv.com/pics/interpections.jpg' alt='' /><p>Вот, вроде бы, взрослые мужики 4 минуты делают часы. Но все компоненты на этом видео кажутся такими чуждыми, что в итоге это всё превращается из технического творчества в какую-то форму искусства. Доведённый до абсурда, невероятно переусложнённый способ считать минуты.</p>]]></description>
+  <pubDate>Tue, 31 Mar 2026 11:35:20 +0300</pubDate>
+  <guid>https://www.youtube.com/watch?v=ibSqAw9Jg9w</guid>
+</item>
 <item>
   <title>texs.org/about</title>
   <link>https://texs.org/about/</link>
@@ -138,13 +145,6 @@
   <description><![CDATA[<img src='https://intersections.snnkv.com/pics/interpections.jpg' alt='' /><p>Экран с USB-A. Втыкаешь в сервер и сразу видишь адреса всех его интерфейсов.</p>]]></description>
   <pubDate>Sun, 08 Mar 2026 11:27:00 +0200</pubDate>
   <guid>https://github.com/C4KEW4LK/rpi_usb_ip_display/tree/main/show_rpi_ip</guid>
-</item>
-<item>
-  <title>Читаю варгейм-джем 4</title>
-  <link>https://www.youtube.com/watch?v=DjbGxlySXC8</link>
-  <description><![CDATA[<img src='https://intersections.snnkv.com/pics/interpections.jpg' alt='' /><p>Чё только не бывает: Чайный Паладин разбирает русскоговорящий гейм-джем по варгеймам. Типичный варгейм это pdf на 80 страниц с правилами, половина из которых — таблицы.</p>]]></description>
-  <pubDate>Sat, 07 Mar 2026 23:03:57 +0200</pubDate>
-  <guid>https://www.youtube.com/watch?v=DjbGxlySXC8</guid>
 </item>
 </channel>
 </rss>
