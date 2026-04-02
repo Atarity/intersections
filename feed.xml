@@ -5,7 +5,14 @@
   <description>Лента почти полезных ссылок. Я кликал и не пожалел.</description>
   <link>https://snnkv.com/</link>
 
-  <lastBuildDate>Tue, 31 Mar 2026 11:35:20 +0300</lastBuildDate>
+  <lastBuildDate>Thu, 02 Apr 2026 12:13:16 +0300</lastBuildDate>
+<item>
+  <title>A Dot a Day Keeps the Clutter Away — Scott Lawson</title>
+  <link>https://scottlawsonbc.com/post/dot-system</link>
+  <description><![CDATA[<img src='https://intersections.snnkv.com/pics/interpections.jpg' alt='' /><p>Автор трекает использование электронных компонентов и инструментов при помощи наклеек. Потом оптимизирует систему хранения. Мне нравятся такие замкнутые системы когда твои ящики и есть твой дашборд для аналитики данных, но эта конкретная, хоть и интересная, точно не для всех.</p>]]></description>
+  <pubDate>Thu, 02 Apr 2026 12:13:16 +0300</pubDate>
+  <guid>https://scottlawsonbc.com/post/dot-system</guid>
+</item>
 <item>
   <title>In The Making: Atmos | Jaeger-LeCoultre</title>
   <link>https://www.youtube.com/watch?v=ibSqAw9Jg9w</link>
@@ -138,13 +145,6 @@
   <description><![CDATA[<img src='https://intersections.snnkv.com/pics/interpections.jpg' alt='' /><p>Учебник по механике трещёток, но это Ниппония.</p>]]></description>
   <pubDate>Mon, 09 Mar 2026 15:28:23 +0200</pubDate>
   <guid>https://www.youtube.com/watch?v=--qqFnPk3KM</guid>
-</item>
-<item>
-  <title>C4KEW4LK/rpi_usb_ip_display</title>
-  <link>https://github.com/C4KEW4LK/rpi_usb_ip_display/tree/main/show_rpi_ip</link>
-  <description><![CDATA[<img src='https://intersections.snnkv.com/pics/interpections.jpg' alt='' /><p>Экран с USB-A. Втыкаешь в сервер и сразу видишь адреса всех его интерфейсов.</p>]]></description>
-  <pubDate>Sun, 08 Mar 2026 11:27:00 +0200</pubDate>
-  <guid>https://github.com/C4KEW4LK/rpi_usb_ip_display/tree/main/show_rpi_ip</guid>
 </item>
 </channel>
 </rss>
