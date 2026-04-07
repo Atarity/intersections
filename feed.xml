@@ -5,7 +5,14 @@
   <description>Лента почти полезных ссылок. Я кликал и не пожалел.</description>
   <link>https://snnkv.com/</link>
 
-  <lastBuildDate>Tue, 07 Apr 2026 23:48:12 +0300</lastBuildDate>
+  <lastBuildDate>Tue, 07 Apr 2026 23:51:32 +0300</lastBuildDate>
+<item>
+  <title>Rorschach – Analog Video Synthesizer Hardware</title>
+  <link>https://lumaticvisual.com/products/rorschach-video-synthesizer</link>
+  <description><![CDATA[<img src='https://intersections.snnkv.com/pics/interpections.jpg' alt='' /><p>Неплохой эффект получился. Учитывая, что внутри нет ничего кроме Атмеги 328.</p>]]></description>
+  <pubDate>Tue, 07 Apr 2026 23:51:32 +0300</pubDate>
+  <guid>https://lumaticvisual.com/products/rorschach-video-synthesizer</guid>
+</item>
 <item>
   <title>Harmonic Bauhaus Pattern Generator</title>
   <link>https://codepen.io/sabosugi/full/MYjXMMG</link>
@@ -138,13 +145,6 @@
   <description><![CDATA[<img src='https://intersections.snnkv.com/pics/interpections.jpg' alt='' /><p>Пусть у них получится генерить код из этой рисовалки во все 6 фреймворков. Я ждал Фигмы для TUI всю жизнь.</p>]]></description>
   <pubDate>Fri, 13 Mar 2026 22:18:07 +0200</pubDate>
   <guid>https://tui.studio/</guid>
-</item>
-<item>
-  <title>Prototyping Shots of Isokon&#x27;s Bent Plywood Join Collection</title>
-  <link>https://www.core77.com/posts/142445/Prototyping-Shots-of-Isokons-Bent-Plywood-Join-Collection</link>
-  <description><![CDATA[<img src='https://intersections.snnkv.com/pics/interpections.jpg' alt='' /><p>Если я где-то вижу стул или, тем более, скамейку из фанеры — сразу иду на нём сидеть.</p>]]></description>
-  <pubDate>Thu, 12 Mar 2026 14:28:39 +0200</pubDate>
-  <guid>https://www.core77.com/posts/142445/Prototyping-Shots-of-Isokons-Bent-Plywood-Join-Collection</guid>
 </item>
 </channel>
 </rss>
