@@ -5,7 +5,14 @@
   <description>Лента почти полезных ссылок. Я кликал и не пожалел.</description>
   <link>https://snnkv.com/</link>
 
-  <lastBuildDate>Tue, 07 Apr 2026 11:42:58 +0300</lastBuildDate>
+  <lastBuildDate>Tue, 07 Apr 2026 23:48:12 +0300</lastBuildDate>
+<item>
+  <title>Harmonic Bauhaus Pattern Generator</title>
+  <link>https://codepen.io/sabosugi/full/MYjXMMG</link>
+  <description><![CDATA[<img src='https://intersections.snnkv.com/pics/interpections.jpg' alt='' /><p>Генератор цветной версии паттерна Bauhaus.</p>]]></description>
+  <pubDate>Tue, 07 Apr 2026 23:48:12 +0300</pubDate>
+  <guid>https://codepen.io/sabosugi/full/MYjXMMG</guid>
+</item>
 <item>
   <title>GOAT - 10 Minute Preview - YouTube</title>
   <link>https://www.youtube.com/watch?v=y8xvuSiLsxo</link>
@@ -138,13 +145,6 @@
   <description><![CDATA[<img src='https://intersections.snnkv.com/pics/interpections.jpg' alt='' /><p>Если я где-то вижу стул или, тем более, скамейку из фанеры — сразу иду на нём сидеть.</p>]]></description>
   <pubDate>Thu, 12 Mar 2026 14:28:39 +0200</pubDate>
   <guid>https://www.core77.com/posts/142445/Prototyping-Shots-of-Isokons-Bent-Plywood-Join-Collection</guid>
-</item>
-<item>
-  <title>LEGO&#x27;s 0.002mm Specification and It&#x27;s Implications for Manufacturing</title>
-  <link>https://www.thewave.engineer/articles.html/productivity/legos-0002mm-specification-and-its-implications-for-manufacturing-r120/</link>
-  <description><![CDATA[<img src='https://intersections.snnkv.com/pics/interpections.jpg' alt='' /><p>Тут говорят, что знаменитые допуски для Лего-кирпичей в 0.002мм не то, чем кажутся и на деле в производстве применяется 0.01мм. Но даже это всё-равно прицезионный допуск для ABS отливок и с такими высокими требованиями они получают аж 2-5% брака (дофига) на который готовы пойти ради полной совместимости кубов среди всех своих триллионов наборов.</p>]]></description>
-  <pubDate>Thu, 12 Mar 2026 14:23:49 +0200</pubDate>
-  <guid>https://www.thewave.engineer/articles.html/productivity/legos-0002mm-specification-and-its-implications-for-manufacturing-r120/</guid>
 </item>
 </channel>
 </rss>
