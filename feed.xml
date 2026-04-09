@@ -5,7 +5,14 @@
   <description>Лента почти полезных ссылок. Я кликал и не пожалел.</description>
   <link>https://snnkv.com/</link>
 
-  <lastBuildDate>Tue, 07 Apr 2026 23:51:32 +0300</lastBuildDate>
+  <lastBuildDate>Thu, 09 Apr 2026 12:56:51 +0300</lastBuildDate>
+<item>
+  <title>Email address obfuscation: What works in 2026?</title>
+  <link>https://spencermortensen.com/articles/email-obfuscation/</link>
+  <description><![CDATA[<img src='https://intersections.snnkv.com/pics/interpections.jpg' alt='' /><p>Тесты способов обфускации имеил-адресов на веб-страницах. Даже некоторые примитивные уловки в реальности показывают эффективность выше 95%.</p>]]></description>
+  <pubDate>Thu, 09 Apr 2026 12:56:51 +0300</pubDate>
+  <guid>https://spencermortensen.com/articles/email-obfuscation/</guid>
+</item>
 <item>
   <title>Rorschach – Analog Video Synthesizer Hardware</title>
   <link>https://lumaticvisual.com/products/rorschach-video-synthesizer</link>
@@ -138,13 +145,6 @@
   <description><![CDATA[<img src='https://intersections.snnkv.com/pics/interpections.jpg' alt='' /><p>Триллион винтов, которые теперь можно откручивать. Не знаю хорошо это или нет, но такое теперь просит Еврокомиcсия и Эплу, похоже, проще подчиниться. Отличный момент когда они сравнивают материнки. Вспоминаю свою любимую Epox 8RDA3+ под Socket A и реву.</p>]]></description>
   <pubDate>Fri, 13 Mar 2026 23:33:14 +0200</pubDate>
   <guid>https://www.youtube.com/watch?v=PbPCGqoBB4Y</guid>
-</item>
-<item>
-  <title>TUIStudio — Design Terminal UIs. Visually.</title>
-  <link>https://tui.studio/</link>
-  <description><![CDATA[<img src='https://intersections.snnkv.com/pics/interpections.jpg' alt='' /><p>Пусть у них получится генерить код из этой рисовалки во все 6 фреймворков. Я ждал Фигмы для TUI всю жизнь.</p>]]></description>
-  <pubDate>Fri, 13 Mar 2026 22:18:07 +0200</pubDate>
-  <guid>https://tui.studio/</guid>
 </item>
 </channel>
 </rss>
