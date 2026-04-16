@@ -5,7 +5,14 @@
   <description>Лента почти полезных ссылок. Я кликал и не пожалел.</description>
   <link>https://snnkv.com/</link>
 
-  <lastBuildDate>Mon, 13 Apr 2026 12:43:29 +0300</lastBuildDate>
+  <lastBuildDate>Thu, 16 Apr 2026 17:51:00 +0300</lastBuildDate>
+<item>
+  <title>Title Scream: Type + Graphic inspiration from 8/16bit games</title>
+  <link>https://titlescream.cameronaskin.com/</link>
+  <description><![CDATA[<img src='https://intersections.snnkv.com/pics/interpections.jpg' alt='' /><p>Интернет сегодня лучше, чем когда-либо. И с каждым днём становится ещё лучше.</p>]]></description>
+  <pubDate>Thu, 16 Apr 2026 17:51:00 +0300</pubDate>
+  <guid>https://titlescream.cameronaskin.com/</guid>
+</item>
 <item>
   <title>“Deere charges six figures for a tractor. But the farmers were still the product.” – Unsung</title>
   <link>https://unsung.aresluna.org/deere-charges-six-figures-for-a-tractor-but-the-farmers-were-still-the-product/</link>
@@ -138,13 +145,6 @@
   <description><![CDATA[<img src='https://intersections.snnkv.com/pics/interpections.jpg' alt='' /><p>On-screen индикатор камеры на дешёвых макбуках (у которых нет хардварного индикатора-светодиода) управляется из отдельной RTOS которая исполняется в изолированном сегменте проца. По-русски: даже если кто-то взломает вашу МакОС до самого ядра у него всё-равно не получится включить камеру без индикатора.</p>]]></description>
   <pubDate>Wed, 18 Mar 2026 15:42:42 +0200</pubDate>
   <guid>https://daringfireball.net/2026/03/apple_enclaves_neo_camera_indicator</guid>
-</item>
-<item>
-  <title>Atarity/deploy-your-own-saas</title>
-  <link>https://github.com/Atarity/deploy-your-own-saas</link>
-  <description><![CDATA[<img src='https://intersections.snnkv.com/pics/interpections.jpg' alt='' /><p>Автоматизировал проверку живучести репозиториев из своего selfhosted списка. Почему столько лет спустя люди продолжают этим списком пользоваться для меня загадка.</p>]]></description>
-  <pubDate>Sat, 14 Mar 2026 19:21:55 +0200</pubDate>
-  <guid>https://github.com/Atarity/deploy-your-own-saas</guid>
 </item>
 </channel>
 </rss>
