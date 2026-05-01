@@ -5,7 +5,14 @@
   <description>Лента почти полезных ссылок. Я кликал и не пожалел.</description>
   <link>https://snnkv.com/</link>
 
-  <lastBuildDate>Wed, 29 Apr 2026 11:57:41 +0300</lastBuildDate>
+  <lastBuildDate>Fri, 01 May 2026 20:53:01 +0300</lastBuildDate>
+<item>
+  <title>Claude now connects to Autodesk Fusion</title>
+  <link>https://www.youtube.com/watch?v=Gen8rG40ntA</link>
+  <description><![CDATA[<img src='https://intersections.snnkv.com/pics/interpections.jpg' alt='' /><p>Что с маркетолагами антропиков если это их трейлер MCP для Fusion?</p>]]></description>
+  <pubDate>Fri, 01 May 2026 20:53:01 +0300</pubDate>
+  <guid>https://www.youtube.com/watch?v=Gen8rG40ntA</guid>
+</item>
 <item>
   <title>Noise Nugget 2040 | Wee Noise Makers</title>
   <link>https://weenoisemakers.com/noise-nugget-2040/</link>
@@ -138,13 +145,6 @@
   <description><![CDATA[<img src='https://intersections.snnkv.com/pics/interpections.jpg' alt='' /><p>Сайты с нишевыми базами данных теперь мои любимые. На этом собраны десятки проектов аналоговых фотокамер, которые можно напечатать на домашнем 3D-принтере. Многие из них совместимы со старыми советскими объективами.</p>]]></description>
   <pubDate>Sun, 05 Apr 2026 15:27:20 +0300</pubDate>
   <guid>https://printed.analogcamera.space/</guid>
-</item>
-<item>
-  <title>Yup, platform activity is surging</title>
-  <link>https://x.com/kdaigle/status/2040164759836778878</link>
-  <description><![CDATA[<img src='https://intersections.snnkv.com/pics/interpections.jpg' alt='' /><p>По статистике Гитхаба коммитов в этом году, даже по консервативным оценкам, будет в 14 раз больше, чем в прошлом. Ух.</p>]]></description>
-  <pubDate>Sun, 05 Apr 2026 13:59:06 +0300</pubDate>
-  <guid>https://x.com/kdaigle/status/2040164759836778878</guid>
 </item>
 </channel>
 </rss>
