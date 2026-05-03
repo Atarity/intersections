@@ -5,7 +5,14 @@
   <description>Лента почти полезных ссылок. Я кликал и не пожалел.</description>
   <link>https://snnkv.com/</link>
 
-  <lastBuildDate>Sun, 03 May 2026 10:52:49 +0300</lastBuildDate>
+  <lastBuildDate>Sun, 03 May 2026 11:02:13 +0300</lastBuildDate>
+<item>
+  <title>The Gay Jailbreak Technique</title>
+  <link>https://github.com/Exocija/ZetaLib/blob/main/The%20Gay%20Jailbreak/The%20Gay%20Jailbreak.md</link>
+  <description><![CDATA[<img src='https://intersections.snnkv.com/pics/interpections.jpg' alt='' /><p>Хакеры из 90х: перепаивают память чтобы сдампить прошивку для дизассемблирования. Хакеры из будущего: Gay Jailbreak go brrr.</p>]]></description>
+  <pubDate>Sun, 03 May 2026 11:02:13 +0300</pubDate>
+  <guid>https://github.com/Exocija/ZetaLib/blob/main/The%20Gay%20Jailbreak/The%20Gay%20Jailbreak.md</guid>
+</item>
 <item>
   <title>Попапы в продукте и мегафонные зазывалы с шариками</title>
   <link>https://ilyabirman.ru/meanwhile/all/popapy-v-produkte-i-megafonnye-zazyvaly-s-sharikami/</link>
@@ -138,13 +145,6 @@
   <description><![CDATA[<img src='https://intersections.snnkv.com/pics/interpections.jpg' alt='' /><p>Анимация в 2026 би лайк.</p>]]></description>
   <pubDate>Tue, 07 Apr 2026 11:42:58 +0300</pubDate>
   <guid>https://www.youtube.com/watch?v=y8xvuSiLsxo</guid>
-</item>
-<item>
-  <title>Первый документальный фильм о реверс-инжиниринге - YouTube</title>
-  <link>https://www.youtube.com/watch?v=yiKjQuYVgcY</link>
-  <description><![CDATA[<img src='https://intersections.snnkv.com/pics/interpections.jpg' alt='' /><p>Мне, в целом, понравилось. Кусочек про DMA читы я с перепуга аж дважды посмотрел — на столько неожиданно он появился. Фильм рассчитан на широкую аудиторию поэтому захватили очень много разных, хороших тем, но ни в одну не занырнули.</p>]]></description>
-  <pubDate>Tue, 07 Apr 2026 11:35:40 +0300</pubDate>
-  <guid>https://www.youtube.com/watch?v=yiKjQuYVgcY</guid>
 </item>
 </channel>
 </rss>
