@@ -5,7 +5,14 @@
   <description>Лента почти полезных ссылок. Я кликал и не пожалел.</description>
   <link>https://snnkv.com/</link>
 
-  <lastBuildDate>Sat, 23 May 2026 19:29:37 +0300</lastBuildDate>
+  <lastBuildDate>Sun, 24 May 2026 12:46:05 +0300</lastBuildDate>
+<item>
+  <title>We are RPi. Ask us anything about Industrial and Embedded applications - Reddit</title>
+  <link>https://www.reddit.com/r/engineering/comments/1tcyfvk/hello_rengineering_were_eben_upton_ceo_james/</link>
+  <description><![CDATA[<img src='https://intersections.snnkv.com/pics/interpections.jpg' alt='' /><p>Ребята из RPi foundation говорят, что до сих пор на рынке нет недорогого и качествонного type-c гнезда, поэтому многие железки до сих пор чертятся с micro USB, которое, к тому же, компактнее.</p>]]></description>
+  <pubDate>Sun, 24 May 2026 12:46:05 +0300</pubDate>
+  <guid>https://www.reddit.com/r/engineering/comments/1tcyfvk/hello_rengineering_were_eben_upton_ceo_james/</guid>
+</item>
 <item>
   <title>I love this stupid little iron - Reddit</title>
   <link>https://www.reddit.com/r/soldering/comments/1tkx18x/i_love_this_stupid_little_iron/</link>
@@ -138,13 +145,6 @@
   <description><![CDATA[<img src='https://intersections.snnkv.com/pics/interpections.jpg' alt='' /><p>Векторная БД по всем символам юникода. Кликаешь на любой, подбирается множество визуально похожих.</p>]]></description>
   <pubDate>Thu, 16 Apr 2026 17:53:19 +0300</pubDate>
   <guid>https://charcuterie.elastiq.ch</guid>
-</item>
-<item>
-  <title>Title Scream: Type + Graphic inspiration from 8/16bit games</title>
-  <link>https://titlescream.cameronaskin.com/</link>
-  <description><![CDATA[<img src='https://intersections.snnkv.com/pics/interpections.jpg' alt='' /><p>Интернет сегодня лучше, чем когда-либо. И с каждым днём становится ещё лучше.</p>]]></description>
-  <pubDate>Thu, 16 Apr 2026 17:51:00 +0300</pubDate>
-  <guid>https://titlescream.cameronaskin.com/</guid>
 </item>
 </channel>
 </rss>
