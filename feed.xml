@@ -5,7 +5,14 @@
   <description>Лента почти полезных ссылок. Я кликал и не пожалел.</description>
   <link>https://snnkv.com/</link>
 
-  <lastBuildDate>Sun, 07 Jun 2026 12:20:52 +0300</lastBuildDate>
+  <lastBuildDate>Sun, 07 Jun 2026 12:35:58 +0300</lastBuildDate>
+<item>
+  <title>IKEA effect - Wikipedia</title>
+  <link>https://en.wikipedia.org/wiki/IKEA_effect</link>
+  <description><![CDATA[<img src='https://intersections.snnkv.com/pics/interpections.jpg' alt='' /><p>Единственное когнитивное искажение, которое я, как продавец, готов абьюзить. 😆</p>]]></description>
+  <pubDate>Sun, 07 Jun 2026 12:35:58 +0300</pubDate>
+  <guid>https://en.wikipedia.org/wiki/IKEA_effect</guid>
+</item>
 <item>
   <title>GitHub - geo-tp/ESP32-Bit-Pirate: A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol</title>
   <link>https://github.com/geo-tp/ESP32-Bit-Pirate</link>
@@ -138,13 +145,6 @@
   <description><![CDATA[<img src='https://intersections.snnkv.com/pics/interpections.jpg' alt='' /><p>Когда начнётся война с роботами, помимо датацентров человеки будут бомбить ещё гравитационные краны-тетрисы.</p>]]></description>
   <pubDate>Tue, 28 Apr 2026 13:14:38 +0300</pubDate>
   <guid>https://santry.substack.com/p/i</guid>
-</item>
-<item>
-  <title>pt5 - phenotropics prototype</title>
-  <link>https://llllllll.co/t/pt5-phenotropics-prototype/74468</link>
-  <description><![CDATA[<img src='https://intersections.snnkv.com/pics/interpections.jpg' alt='' /><p>Мне кажется клеточные автоматы больше подходят шуму, пэдам, lfo и другим модуляторам ради медленных и органичных, натурально звучащих преобразований.</p>]]></description>
-  <pubDate>Thu, 23 Apr 2026 12:43:55 +0300</pubDate>
-  <guid>https://llllllll.co/t/pt5-phenotropics-prototype/74468</guid>
 </item>
 </channel>
 </rss>
