@@ -5,7 +5,14 @@
   <description>Лента почти полезных ссылок. Я кликал и не пожалел.</description>
   <link>https://snnkv.com/</link>
 
-  <lastBuildDate>Tue, 09 Jun 2026 00:44:20 +0300</lastBuildDate>
+  <lastBuildDate>Wed, 10 Jun 2026 11:45:21 +0300</lastBuildDate>
+<item>
+  <title>devenjarvis/lathe: Generate hands-on, multi-part technical tutorials on demand.</title>
+  <link>https://github.com/devenjarvis/lathe</link>
+  <description><![CDATA[<img src='https://intersections.snnkv.com/pics/interpections.jpg' alt='' /><p>Это навык для LLM, только на запрос он отвечает детальной пошаговой инструкцией, которую можно подшить к вашей wiki.</p>]]></description>
+  <pubDate>Wed, 10 Jun 2026 11:45:21 +0300</pubDate>
+  <guid>https://github.com/devenjarvis/lathe</guid>
+</item>
 <item>
   <title>APC–2 - teenage engineering</title>
   <link>https://teenage.engineering/products/apc-2</link>
@@ -138,13 +145,6 @@
   <description><![CDATA[<img src='https://intersections.snnkv.com/pics/interpections.jpg' alt='' /><p>Ещё одни «синтезаторные мозги» в гнездо m2 key. Всё больше такого попадается.</p>]]></description>
   <pubDate>Wed, 29 Apr 2026 11:57:41 +0300</pubDate>
   <guid>https://weenoisemakers.com/noise-nugget-2040/</guid>
-</item>
-<item>
-  <title>Cosmos Keyboard Generator</title>
-  <link>https://ryanis.cool/cosmos/beta</link>
-  <description><![CDATA[<img src='https://intersections.snnkv.com/pics/interpections.jpg' alt='' /><p>В интернетах всё больше предзапечённых 3D генераторов «для домохозяек» и они супер! Под капотом почти всегда WASM и Open CASCADE.</p>]]></description>
-  <pubDate>Tue, 28 Apr 2026 13:30:42 +0300</pubDate>
-  <guid>https://ryanis.cool/cosmos/beta</guid>
 </item>
 </channel>
 </rss>
