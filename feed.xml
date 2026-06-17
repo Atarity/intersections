@@ -5,7 +5,14 @@
   <description>Лента почти полезных ссылок. Я кликал и не пожалел.</description>
   <link>https://snnkv.com/</link>
 
-  <lastBuildDate>Thu, 18 Jun 2026 00:03:55 +0300</lastBuildDate>
+  <lastBuildDate>Thu, 18 Jun 2026 00:31:29 +0300</lastBuildDate>
+<item>
+  <title>Bubbles</title>
+  <link>https://bubbles.town/</link>
+  <description><![CDATA[<img src='https://intersections.snnkv.com/pics/interpections.jpg' alt='' /><p>Агрегатор персональных сайтов и блогов сделанный по типу Hacker News. В отличие от HN у него роскошные RSS фиды.</p>]]></description>
+  <pubDate>Thu, 18 Jun 2026 00:31:29 +0300</pubDate>
+  <guid>https://bubbles.town/</guid>
+</item>
 <item>
   <title>Want your images back? Sure... That&#x27;ll be $5!</title>
   <link>https://www.lutr.dev/want-your-images-back-sure-that-ll-be-5-dollars</link>
@@ -138,13 +145,6 @@
   <description><![CDATA[<img src='https://intersections.snnkv.com/pics/interpections.jpg' alt='' /><p>Такой Apple в мире виртуальных осциллографов. Ребята умеют делать бутиковое оборудование и понимают, что в таком оборудовании главное — софт.</p>]]></description>
   <pubDate>Thu, 14 May 2026 23:40:49 +0300</pubDate>
   <guid>https://www.saleae.com/logic-mso</guid>
-</item>
-<item>
-  <title>Superbooth 26 was a trip</title>
-  <link>https://www.youtube.com/watch?v=JCMPrz2YZno</link>
-  <description><![CDATA[<img src='https://intersections.snnkv.com/pics/interpections.jpg' alt='' /><p>Насмотрелся видео с Супербудки-26. Пожалел что в этом году бездарно её пропустил.</p>]]></description>
-  <pubDate>Tue, 12 May 2026 15:47:19 +0300</pubDate>
-  <guid>https://www.youtube.com/watch?v=JCMPrz2YZno</guid>
 </item>
 </channel>
 </rss>
