@@ -5,7 +5,14 @@
   <description>Лента почти полезных ссылок. Я кликал и не пожалел.</description>
   <link>https://snnkv.com/</link>
 
-  <lastBuildDate>Sun, 21 Jun 2026 21:25:16 +0300</lastBuildDate>
+  <lastBuildDate>Sun, 21 Jun 2026 22:12:30 +0300</lastBuildDate>
+<item>
+  <title>FlipCTL — наш графический фреймворк для Linux-систем</title>
+  <link>https://www.youtube.com/watch?v=G58TB2iQ9dE</link>
+  <description><![CDATA[<img src='https://intersections.snnkv.com/pics/interpections.jpg' alt='' /><p>В этом продукте Флиппера вижу ценность. Очень легко прислоняется ко всему подряд: от тестовых джигов, станков и 3Д-принтеров до серваков и разных домашних контроллеров и элементов инфры.</p>]]></description>
+  <pubDate>Sun, 21 Jun 2026 22:12:30 +0300</pubDate>
+  <guid>https://www.youtube.com/watch?v=G58TB2iQ9dE</guid>
+</item>
 <item>
   <title>Mechanical Watch – Bartosz Ciechanowski</title>
   <link>https://ciechanow.ski/mechanical-watch/</link>
@@ -138,13 +145,6 @@
   <description><![CDATA[<img src='https://intersections.snnkv.com/pics/interpections.jpg' alt='' /><p>Ребята из RPi foundation говорят, что до сих пор на рынке нет недорогого и качествонного type-c гнезда, поэтому многие железки до сих пор чертятся с micro USB, которое, к тому же, компактнее.</p>]]></description>
   <pubDate>Sun, 24 May 2026 12:46:05 +0300</pubDate>
   <guid>https://www.reddit.com/r/engineering/comments/1tcyfvk/hello_rengineering_were_eben_upton_ceo_james/</guid>
-</item>
-<item>
-  <title>I love this stupid little iron - Reddit</title>
-  <link>https://www.reddit.com/r/soldering/comments/1tkx18x/i_love_this_stupid_little_iron/</link>
-  <description><![CDATA[<img src='https://intersections.snnkv.com/pics/interpections.jpg' alt='' /><p>Говорю вам: приладить чё-нить к 18V батарейке от шуруповёрта это сейчас электрический аналог запуска Дума на том, что под руку подвернулось.</p>]]></description>
-  <pubDate>Sat, 23 May 2026 19:29:37 +0300</pubDate>
-  <guid>https://www.reddit.com/r/soldering/comments/1tkx18x/i_love_this_stupid_little_iron/</guid>
 </item>
 </channel>
 </rss>
