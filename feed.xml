@@ -5,7 +5,14 @@
   <description>Лента почти полезных ссылок. Я кликал и не пожалел.</description>
   <link>https://snnkv.com/</link>
 
-  <lastBuildDate>Thu, 18 Jun 2026 23:22:41 +0300</lastBuildDate>
+  <lastBuildDate>Sun, 21 Jun 2026 21:25:16 +0300</lastBuildDate>
+<item>
+  <title>Mechanical Watch – Bartosz Ciechanowski</title>
+  <link>https://ciechanow.ski/mechanical-watch/</link>
+  <description><![CDATA[<img src='https://intersections.snnkv.com/pics/interpections.jpg' alt='' /><p>Полностью разобран принцип работы классического механического наручного калибра с ручным заводом, анкерным спуском и центральной секундной стрелкой, работающий на частоте 4Гц.</p>]]></description>
+  <pubDate>Sun, 21 Jun 2026 21:25:16 +0300</pubDate>
+  <guid>https://ciechanow.ski/mechanical-watch/</guid>
+</item>
 <item>
   <title>Apple’s weird anti-nausea dots cured my car sickness</title>
   <link>https://www.theverge.com/tech/942854/apple-vehicle-motion-cues-review-really-work</link>
@@ -138,13 +145,6 @@
   <description><![CDATA[<img src='https://intersections.snnkv.com/pics/interpections.jpg' alt='' /><p>Говорю вам: приладить чё-нить к 18V батарейке от шуруповёрта это сейчас электрический аналог запуска Дума на том, что под руку подвернулось.</p>]]></description>
   <pubDate>Sat, 23 May 2026 19:29:37 +0300</pubDate>
   <guid>https://www.reddit.com/r/soldering/comments/1tkx18x/i_love_this_stupid_little_iron/</guid>
-</item>
-<item>
-  <title>The Pandaverse — ThereminGoat&#x27;s Switches</title>
-  <link>https://www.theremingoat.com/blog/the-pandaverse</link>
-  <description><![CDATA[<img src='https://intersections.snnkv.com/pics/interpections.jpg' alt='' /><p>Случайно купил на Алике очень дешевые переключатели которые в статье называются 3RMB Panda и это лучшие кнопки какие я пробовал. Не знал что вместе с ними покупаю ещё и длинную историю драм, клонов, копий и переделок. 🤌</p>]]></description>
-  <pubDate>Wed, 20 May 2026 12:39:34 +0300</pubDate>
-  <guid>https://www.theremingoat.com/blog/the-pandaverse</guid>
 </item>
 </channel>
 </rss>
