@@ -5,7 +5,14 @@
   <description>Лента почти полезных ссылок. Я кликал и не пожалел.</description>
   <link>https://snnkv.com/</link>
 
-  <lastBuildDate>Thu, 25 Jun 2026 11:33:23 +0300</lastBuildDate>
+  <lastBuildDate>Sat, 04 Jul 2026 11:22:25 +0300</lastBuildDate>
+<item>
+  <title>Inkterface, an e-ink faceplate for your Steam Machine</title>
+  <link>https://gitlab.steamos.cloud/SteamHardware/SteamMachine/inkterface</link>
+  <description><![CDATA[<img src='https://intersections.snnkv.com/pics/interpections.jpg' alt='' /><p>Valve опубликовала Inkterface — проект сменной панели с eink-экраном для Steam Machine. Получилось плохо. Панель общается с хостом через wifi, работает от батареи. Очень хочется в будущем увидеть внутри SteamMachine гребёнку интерфейсов или банальное USB гнездо для таких устройств.</p>]]></description>
+  <pubDate>Sat, 04 Jul 2026 11:22:25 +0300</pubDate>
+  <guid>https://gitlab.steamos.cloud/SteamHardware/SteamMachine/inkterface</guid>
+</item>
 <item>
   <title>How Telescope Rancher Became The Hot New Job</title>
   <link>https://www.youtube.com/watch?v=bN48vEqaQs8</link>
@@ -138,13 +145,6 @@
   <description><![CDATA[<img src='https://intersections.snnkv.com/pics/interpections.jpg' alt='' /><p>Ещё история про ковидный чипогеддон и, в этот раз, ревокри в Saleae.</p>]]></description>
   <pubDate>Sun, 07 Jun 2026 11:55:07 +0300</pubDate>
   <guid>https://www.youtube.com/watch?v=onxJqNzUyk0</guid>
-</item>
-<item>
-  <title>Why Japanese companies do so many different things</title>
-  <link>https://davidoks.blog/p/why-japanese-companies-do-so-many</link>
-  <description><![CDATA[<img src='https://intersections.snnkv.com/pics/interpections.jpg' alt='' /><p>Тут рассказывают почему японские корпорации оказываются особенно сильны там, где нужно годами совершенствовать технологии, улучшать качество и переносить накопленные знания между различными направлениями бизнеса.</p>]]></description>
-  <pubDate>Mon, 01 Jun 2026 23:42:26 +0300</pubDate>
-  <guid>https://davidoks.blog/p/why-japanese-companies-do-so-many</guid>
 </item>
 </channel>
 </rss>
