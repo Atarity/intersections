@@ -5,7 +5,14 @@
   <description>Лента почти полезных ссылок. Я кликал и не пожалел.</description>
   <link>https://snnkv.com/</link>
 
-  <lastBuildDate>Sat, 04 Jul 2026 12:10:39 +0300</lastBuildDate>
+  <lastBuildDate>Sun, 05 Jul 2026 12:00:50 +0300</lastBuildDate>
+<item>
+  <title>Home made GPU escalated quickly</title>
+  <link>https://www.youtube.com/watch?v=qMR3IXF2sWw</link>
+  <description><![CDATA[<img src='https://intersections.snnkv.com/pics/interpections.jpg' alt='' /><p>Битлуни сделал кластер на 8+ тыс микроконтроллеров. Не смотря на то, что это совершенно синтетическое упражнение для электронщика, из видео хорошо понятно как сильно меняется характер проблем вместе с ростом маштаба проекта. Использовать 3D-принтер для прошивки тысяч этих МК — это прямо техническое творчество.</p>]]></description>
+  <pubDate>Sun, 05 Jul 2026 12:00:50 +0300</pubDate>
+  <guid>https://www.youtube.com/watch?v=qMR3IXF2sWw</guid>
+</item>
 <item>
   <title>Great UX: Hazet&#x27;s SmartCase Portable Tool Organizers - Core77</title>
   <link>https://www.core77.com/posts/144561/Great-UX-Hazets-SmartCase-Portable-Tool-Organizers</link>
@@ -138,13 +145,6 @@
   <description><![CDATA[<img src='https://intersections.snnkv.com/pics/interpections.jpg' alt='' /><p>Это навык для LLM, только на запрос он отвечает детальной пошаговой инструкцией, которую можно подшить к вашей wiki.</p>]]></description>
   <pubDate>Wed, 10 Jun 2026 11:45:21 +0300</pubDate>
   <guid>https://github.com/devenjarvis/lathe</guid>
-</item>
-<item>
-  <title>APC–2 - teenage engineering</title>
-  <link>https://teenage.engineering/products/apc-2</link>
-  <description><![CDATA[<img src='https://intersections.snnkv.com/pics/interpections.jpg' alt='' /><p>Teenage Engineering такие: &quot;как бы нам залезть в B2B с нашими железками? Мастер-диски!&quot;</p>]]></description>
-  <pubDate>Tue, 09 Jun 2026 00:44:20 +0300</pubDate>
-  <guid>https://teenage.engineering/products/apc-2</guid>
 </item>
 </channel>
 </rss>
