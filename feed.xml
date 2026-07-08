@@ -5,7 +5,14 @@
   <description>Лента почти полезных ссылок. Я кликал и не пожалел.</description>
   <link>https://snnkv.com/</link>
 
-  <lastBuildDate>Sun, 05 Jul 2026 12:00:50 +0300</lastBuildDate>
+  <lastBuildDate>Wed, 08 Jul 2026 19:47:28 +0300</lastBuildDate>
+<item>
+  <title>Spot at Coca-Cola Europacific Partners | Boston Dynamics</title>
+  <link>https://www.youtube.com/watch?v=em5RQCq5zyc</link>
+  <description><![CDATA[<img src='https://intersections.snnkv.com/pics/interpections.jpg' alt='' /><p>Собака Boston Dynamics просто ходит по огромному полностью автоматизированному цеху по производству газировки и проверяет что всё работает и огнетушители висят ровно. Ну это же точно ещё не опенинг из Терминатора, да? Там даже один рабочий говорит, что, мол, future is bright.</p>]]></description>
+  <pubDate>Wed, 08 Jul 2026 19:47:28 +0300</pubDate>
+  <guid>https://www.youtube.com/watch?v=em5RQCq5zyc</guid>
+</item>
 <item>
   <title>Home made GPU escalated quickly</title>
   <link>https://www.youtube.com/watch?v=qMR3IXF2sWw</link>
@@ -138,13 +145,6 @@
   <description><![CDATA[<img src='https://intersections.snnkv.com/pics/interpections.jpg' alt='' /><p>Обсуждение новости о том, что Let`s Encrypt перестанет выпускать сертификаты для лиц и компаний в подсанкционных (для США) странах. Что полная шиза, если вспомнить для чего эта организация вообще была создана. Да вы хотя бы на название её посмотрите.</p>]]></description>
   <pubDate>Wed, 10 Jun 2026 12:00:42 +0300</pubDate>
   <guid>https://news.ycombinator.com/item?id=48453275</guid>
-</item>
-<item>
-  <title>devenjarvis/lathe: Generate hands-on, multi-part technical tutorials on demand.</title>
-  <link>https://github.com/devenjarvis/lathe</link>
-  <description><![CDATA[<img src='https://intersections.snnkv.com/pics/interpections.jpg' alt='' /><p>Это навык для LLM, только на запрос он отвечает детальной пошаговой инструкцией, которую можно подшить к вашей wiki.</p>]]></description>
-  <pubDate>Wed, 10 Jun 2026 11:45:21 +0300</pubDate>
-  <guid>https://github.com/devenjarvis/lathe</guid>
 </item>
 </channel>
 </rss>
