@@ -5,7 +5,14 @@
   <description>Лента почти полезных ссылок. Я кликал и не пожалел.</description>
   <link>https://snnkv.com/</link>
 
-  <lastBuildDate>Sat, 11 Jul 2026 00:05:23 +0300</lastBuildDate>
+  <lastBuildDate>Wed, 15 Jul 2026 21:04:04 +0300</lastBuildDate>
+<item>
+  <title>midyphy zetaSID: Tons of Synth In a Tiny Package</title>
+  <link>https://www.youtube.com/watch?v=uNBeSqpLmW4</link>
+  <description><![CDATA[<img src='https://intersections.snnkv.com/pics/interpections.jpg' alt='' /><p>Ого: модульный модуль 😀 на чипе SID (ну ладно: на его эмуляции, но качественной). Интерфейсы, как всегда бывает с чип-синтезаторами, компьютерные, но, по-моему, к этой штуке по-другому не подступиться.</p>]]></description>
+  <pubDate>Wed, 15 Jul 2026 21:04:04 +0300</pubDate>
+  <guid>https://www.youtube.com/watch?v=uNBeSqpLmW4</guid>
+</item>
 <item>
   <title>ManualsLib</title>
   <link>https://www.manualslib.com/</link>
@@ -138,13 +145,6 @@
   <description><![CDATA[<img src='https://intersections.snnkv.com/pics/interpections.jpg' alt='' /><p>🤌</p>]]></description>
   <pubDate>Sun, 14 Jun 2026 21:27:37 +0300</pubDate>
   <guid>https://www.youtube.com/watch?v=5GPrj5YEz5A</guid>
-</item>
-<item>
-  <title>A Corkboard for Your Monitor</title>
-  <link>https://www.core77.com/posts/144479/A-Corkboard-for-Your-Monitor</link>
-  <description><![CDATA[<img src='https://intersections.snnkv.com/pics/interpections.jpg' alt='' /><p>А вы говорите: невозможно ничего изобрести, всё уже изобрели до нас. Во!</p>]]></description>
-  <pubDate>Thu, 11 Jun 2026 22:27:00 +0300</pubDate>
-  <guid>https://www.core77.com/posts/144479/A-Corkboard-for-Your-Monitor</guid>
 </item>
 </channel>
 </rss>
