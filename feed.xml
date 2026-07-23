@@ -5,7 +5,14 @@
   <description>Лента почти полезных ссылок. Я кликал и не пожалел.</description>
   <link>https://snnkv.com/</link>
 
-  <lastBuildDate>Mon, 20 Jul 2026 11:58:08 +0300</lastBuildDate>
+  <lastBuildDate>Thu, 23 Jul 2026 15:37:48 +0300</lastBuildDate>
+<item>
+  <title>codeberg.org/Codeberg/org/pulls/1254</title>
+  <link>https://codeberg.org/Codeberg/org/pulls/1254</link>
+  <description><![CDATA[<img src='https://intersections.snnkv.com/pics/interpections.jpg' alt='' /><p>Codeberg, на который многие убежали потому, что «Гитхаб фу, Гитхаб плохой, аптайм всего 98.5% в этом месяце» принимает правило банить проекты которые «вредят его репутации, например проекты связанные с криптой». Вау! Следующим шагом они, наверное, забанят всё что работает на торрентах и запретят коммитить по воскресеньям.</p>]]></description>
+  <pubDate>Thu, 23 Jul 2026 15:37:48 +0300</pubDate>
+  <guid>https://codeberg.org/Codeberg/org/pulls/1254</guid>
+</item>
 <item>
   <title>Cyberpunk Comics, Manga and Graphic Novels – SHELLZINE</title>
   <link>https://shellzine.net/cyberpunk-comics/</link>
@@ -138,13 +145,6 @@
   <description><![CDATA[<img src='https://intersections.snnkv.com/pics/interpections.jpg' alt='' /><p>Агрегатор персональных сайтов и блогов сделанный по типу Hacker News. В отличие от HN у него роскошные RSS фиды.</p>]]></description>
   <pubDate>Thu, 18 Jun 2026 00:31:29 +0300</pubDate>
   <guid>https://bubbles.town/</guid>
-</item>
-<item>
-  <title>Want your images back? Sure... That&#x27;ll be $5!</title>
-  <link>https://www.lutr.dev/want-your-images-back-sure-that-ll-be-5-dollars</link>
-  <description><![CDATA[<img src='https://intersections.snnkv.com/pics/interpections.jpg' alt='' /><p>Весь мой опыт с подписочными сервисами (десятилетия) на разных отрезках времени становился похожим на описанный в этой заметке кринж. Всё работает до тех пор пока ты попадаешь в 90% их «типичных» пользователей. Оставшиеся 10% варятся в либме.</p>]]></description>
-  <pubDate>Thu, 18 Jun 2026 00:03:55 +0300</pubDate>
-  <guid>https://www.lutr.dev/want-your-images-back-sure-that-ll-be-5-dollars</guid>
 </item>
 </channel>
 </rss>
