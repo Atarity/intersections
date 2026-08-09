@@ -5,7 +5,14 @@
   <description>Лента почти полезных ссылок. Я кликал и не пожалел.</description>
   <link>https://snnkv.com/</link>
 
-  <lastBuildDate>Sun, 09 Aug 2026 14:23:24 +0300</lastBuildDate>
+  <lastBuildDate>Sun, 09 Aug 2026 14:28:35 +0300</lastBuildDate>
+<item>
+  <title>Anime User Interface</title>
+  <link>https://animeuserinterface.tumblr.com/</link>
+  <description><![CDATA[<img src='https://intersections.snnkv.com/pics/interpections.jpg' alt='' /><p>Я жду когда все современные браузеры научаться поддерживать True Masonry (адаптивную плитку визуального контента как в Пинтересте) без сторонних либ и тупого джаваскрипта. Тогда весь мой интернет будет таким 😍</p>]]></description>
+  <pubDate>Sun, 09 Aug 2026 14:28:35 +0300</pubDate>
+  <guid>https://animeuserinterface.tumblr.com/</guid>
+</item>
 <item>
   <title>RamenHaus</title>
   <link>https://ramen.haus/</link>
@@ -138,13 +145,6 @@
   <description><![CDATA[<img src='https://intersections.snnkv.com/pics/interpections.jpg' alt='' /><p>Чел делает проект открытого робота-пылесоса. Сделал уже очень много, но работы там, кажется, ещё навалом.</p>]]></description>
   <pubDate>Sat, 04 Jul 2026 11:34:18 +0300</pubDate>
   <guid>https://makerspet.com/blog/building-an-open-source-robot-vacuum-meet-oomwoo/</guid>
-</item>
-<item>
-  <title>Inkterface, an e-ink faceplate for your Steam Machine</title>
-  <link>https://gitlab.steamos.cloud/SteamHardware/SteamMachine/inkterface</link>
-  <description><![CDATA[<img src='https://intersections.snnkv.com/pics/interpections.jpg' alt='' /><p>Valve опубликовала Inkterface — проект сменной панели с eink-экраном для Steam Machine. Получилось плохо. Панель общается с хостом через wifi, работает от батареи. Очень хочется в будущем увидеть внутри SteamMachine гребёнку интерфейсов или банальное USB гнездо для таких устройств.</p>]]></description>
-  <pubDate>Sat, 04 Jul 2026 11:22:25 +0300</pubDate>
-  <guid>https://gitlab.steamos.cloud/SteamHardware/SteamMachine/inkterface</guid>
 </item>
 </channel>
 </rss>
