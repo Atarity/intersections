@@ -5,7 +5,14 @@
   <description>Лента почти полезных ссылок. Я кликал и не пожалел.</description>
   <link>https://snnkv.com/</link>
 
-  <lastBuildDate>Sun, 09 Aug 2026 13:27:53 +0300</lastBuildDate>
+  <lastBuildDate>Sun, 09 Aug 2026 14:23:24 +0300</lastBuildDate>
+<item>
+  <title>RamenHaus</title>
+  <link>https://ramen.haus/</link>
+  <description><![CDATA[<img src='https://intersections.snnkv.com/pics/interpections.jpg' alt='' /><p>Я нашёл вам второго дурачка (помимо себя) у которого в телефоне есть фотоальбом целиком состоящий из мисок с лапшой.</p>]]></description>
+  <pubDate>Sun, 09 Aug 2026 14:23:24 +0300</pubDate>
+  <guid>https://ramen.haus/</guid>
+</item>
 <item>
   <title>DSP Benchmark: RP2040 vs RP2350 | Wee Noise Makers</title>
   <link>https://weenoisemakers.com/blog/2026/06/15/dsp-benchmark-rp2040-vs-rp2350.html</link>
@@ -138,13 +145,6 @@
   <description><![CDATA[<img src='https://intersections.snnkv.com/pics/interpections.jpg' alt='' /><p>Valve опубликовала Inkterface — проект сменной панели с eink-экраном для Steam Machine. Получилось плохо. Панель общается с хостом через wifi, работает от батареи. Очень хочется в будущем увидеть внутри SteamMachine гребёнку интерфейсов или банальное USB гнездо для таких устройств.</p>]]></description>
   <pubDate>Sat, 04 Jul 2026 11:22:25 +0300</pubDate>
   <guid>https://gitlab.steamos.cloud/SteamHardware/SteamMachine/inkterface</guid>
-</item>
-<item>
-  <title>How Telescope Rancher Became The Hot New Job</title>
-  <link>https://www.youtube.com/watch?v=bN48vEqaQs8</link>
-  <description><![CDATA[<img src='https://intersections.snnkv.com/pics/interpections.jpg' alt='' /><p>Вот техно-бизнес на стыке с шизой. Челу присылают телескопы со всего мира, чтобы разместить их в пустыне Техаса, где нет облаков и засветки, и управлять ими удалённо. Как серваки на колокейшен сдать, но серваки — это телескопы за десятки тысяч баксов, а дата-центр — это ангар с автоматической крышей.</p>]]></description>
-  <pubDate>Thu, 25 Jun 2026 11:33:23 +0300</pubDate>
-  <guid>https://www.youtube.com/watch?v=bN48vEqaQs8</guid>
 </item>
 </channel>
 </rss>
