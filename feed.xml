@@ -5,7 +5,14 @@
   <description>Лента почти полезных ссылок. Я кликал и не пожалел.</description>
   <link>https://snnkv.com/</link>
 
-  <lastBuildDate>Sun, 09 Aug 2026 11:55:09 +0300</lastBuildDate>
+  <lastBuildDate>Sun, 09 Aug 2026 13:27:53 +0300</lastBuildDate>
+<item>
+  <title>DSP Benchmark: RP2040 vs RP2350 | Wee Noise Makers</title>
+  <link>https://weenoisemakers.com/blog/2026/06/15/dsp-benchmark-rp2040-vs-rp2350.html</link>
+  <description><![CDATA[<img src='https://intersections.snnkv.com/pics/interpections.jpg' alt='' /><p>Сравнение ядер RP2040 и RP2350 для нужд DSP.</p>]]></description>
+  <pubDate>Sun, 09 Aug 2026 13:27:53 +0300</pubDate>
+  <guid>https://weenoisemakers.com/blog/2026/06/15/dsp-benchmark-rp2040-vs-rp2350.html</guid>
+</item>
 <item>
   <title>Поле удачи - by Сергей Хабаров</title>
   <link>https://khabaroff.substack.com/p/77</link>
@@ -138,13 +145,6 @@
   <description><![CDATA[<img src='https://intersections.snnkv.com/pics/interpections.jpg' alt='' /><p>Вот техно-бизнес на стыке с шизой. Челу присылают телескопы со всего мира, чтобы разместить их в пустыне Техаса, где нет облаков и засветки, и управлять ими удалённо. Как серваки на колокейшен сдать, но серваки — это телескопы за десятки тысяч баксов, а дата-центр — это ангар с автоматической крышей.</p>]]></description>
   <pubDate>Thu, 25 Jun 2026 11:33:23 +0300</pubDate>
   <guid>https://www.youtube.com/watch?v=bN48vEqaQs8</guid>
-</item>
-<item>
-  <title>How to Eat Canned Sardines (ELIMINATE THE FEAR)</title>
-  <link>https://www.youtube.com/watch?v=6TEcIsZFTPw</link>
-  <description><![CDATA[<img src='https://intersections.snnkv.com/pics/interpections.jpg' alt='' /><p>Взрослый мужик ведёт канал где просто пробует разные консервированные сардины. Ничего необычного, смешного или странного, но, почему-то, всегда с божьей искрой. Я не понимаю что вам ещё нужно от интернета.</p>]]></description>
-  <pubDate>Wed, 24 Jun 2026 23:38:59 +0300</pubDate>
-  <guid>https://www.youtube.com/watch?v=6TEcIsZFTPw</guid>
 </item>
 </channel>
 </rss>
