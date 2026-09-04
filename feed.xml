@@ -5,7 +5,14 @@
   <description>Лента почти полезных ссылок. Я кликал и не пожалел.</description>
   <link>https://snnkv.com/</link>
 
-  <lastBuildDate>Thu, 03 Sep 2026 11:37:03 +0300</lastBuildDate>
+  <lastBuildDate>Fri, 04 Sep 2026 12:22:07 +0300</lastBuildDate>
+<item>
+  <title>GitHub - tonku321/fn-lang-switcher: A minimal macOS app that switches your keyboard input source (language) when you press the FN key</title>
+  <link>https://github.com/tonku321/fn-lang-switcher</link>
+  <description><![CDATA[<img src='https://intersections.snnkv.com/pics/interpections.jpg' alt='' /><p>Нативная программа для MacOS на 40 строчек, которая мгновенно(!) переключает раскладку по кнопке Globe. Без задержек, отжиманий и всплывающих менюшек.</p>]]></description>
+  <pubDate>Fri, 04 Sep 2026 12:22:07 +0300</pubDate>
+  <guid>https://github.com/tonku321/fn-lang-switcher</guid>
+</item>
 <item>
   <title>99% of My Website Traffic Is Bots</title>
   <link>https://patronview.com/news/99-percent-of-my-website-traffic-is-bots/</link>
@@ -138,13 +145,6 @@
   <description><![CDATA[<img src='https://intersections.snnkv.com/pics/interpections.jpg' alt='' /><p>Keychron обещают к следующему году сделать открытую прошивку для мышек. Делать будут на базе Zephir RTOS. Называться будет ZGM. Видимо по аналогии с QMK 😀</p>]]></description>
   <pubDate>Thu, 30 Jul 2026 11:33:51 +0300</pubDate>
   <guid>https://github.com/Keychron/zgm</guid>
-</item>
-<item>
-  <title>Про акцию «Реакция»</title>
-  <link>https://staskulesh.com/2026/07/react/</link>
-  <description><![CDATA[<img src='https://intersections.snnkv.com/pics/interpections.jpg' alt='' /><p>Стас Кулеш про украденное реактивностью время.</p>]]></description>
-  <pubDate>Wed, 29 Jul 2026 12:14:28 +0300</pubDate>
-  <guid>https://staskulesh.com/2026/07/react/</guid>
 </item>
 </channel>
 </rss>
