@@ -5,7 +5,14 @@
   <description>Лента почти полезных ссылок. Я кликал и не пожалел.</description>
   <link>https://snnkv.com/</link>
 
-  <lastBuildDate>Mon, 07 Sep 2026 21:16:55 +0300</lastBuildDate>
+  <lastBuildDate>Mon, 07 Sep 2026 21:26:38 +0300</lastBuildDate>
+<item>
+  <title>Ask HN: How do you manage skills files?</title>
+  <link>https://news.ycombinator.com/item?id=49589914</link>
+  <description><![CDATA[<img src='https://intersections.snnkv.com/pics/interpections.jpg' alt='' /><p>Кто-то спросил на HN «как вы управляете файлами навыков для LLM?». В комментариях война тех, кто считает навыки бесполезными с теми кто видит в них ценность. Из каментов легко понять что большинство технарей (я в их числе) даже примерно не понимают как работает технология которой они пользуются каждый день. Даже общего понятийного аппарата нет. Удивительные времена.</p>]]></description>
+  <pubDate>Mon, 07 Sep 2026 21:26:38 +0300</pubDate>
+  <guid>https://news.ycombinator.com/item?id=49589914</guid>
+</item>
 <item>
   <title>Agent memory as a file format</title>
   <link>https://calpaterson.com/memoryfields.html</link>
@@ -138,13 +145,6 @@
   <description><![CDATA[<img src='https://intersections.snnkv.com/pics/interpections.jpg' alt='' /><p>Сравнение ядер RP2040 и RP2350 для нужд DSP.</p>]]></description>
   <pubDate>Sun, 09 Aug 2026 13:27:53 +0300</pubDate>
   <guid>https://weenoisemakers.com/blog/2026/06/15/dsp-benchmark-rp2040-vs-rp2350.html</guid>
-</item>
-<item>
-  <title>Поле удачи - by Сергей Хабаров</title>
-  <link>https://khabaroff.substack.com/p/77</link>
-  <description><![CDATA[<img src='https://intersections.snnkv.com/pics/interpections.jpg' alt='' /><p>Сергей Хабаров начертил целую модель про управление «удачей».</p>]]></description>
-  <pubDate>Sun, 09 Aug 2026 11:55:09 +0300</pubDate>
-  <guid>https://khabaroff.substack.com/p/77</guid>
 </item>
 </channel>
 </rss>
