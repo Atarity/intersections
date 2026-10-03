@@ -5,7 +5,14 @@
   <description>Лента почти полезных ссылок. Я кликал и не пожалел.</description>
   <link>https://snnkv.com/</link>
 
-  <lastBuildDate>Sat, 03 Oct 2026 12:41:50 +0300</lastBuildDate>
+  <lastBuildDate>Sat, 03 Oct 2026 12:50:06 +0300</lastBuildDate>
+<item>
+  <title>MBI – The Tie Club Exclusive | Martin-Baker</title>
+  <link>https://martin-baker.com/watches/mb-i/</link>
+  <description><![CDATA[<img src='https://intersections.snnkv.com/pics/interpections.jpg' alt='' /><p>Маркетинг 2026: Компания выпускает кресла для истребителей. Сделали линейку наручных часов которые эксклюзивно выдаются только тем кто катапультировался в их креслах (и выжил).</p>]]></description>
+  <pubDate>Sat, 03 Oct 2026 12:50:06 +0300</pubDate>
+  <guid>https://martin-baker.com/watches/mb-i/</guid>
+</item>
 <item>
   <title>THIS is the photo that made me accept that I’m old</title>
   <link>https://www.joeydevilla.com/2026/09/29/this-is-the-photo-that-made-me-accept-that-im-old/</link>
@@ -138,13 +145,6 @@
   <description><![CDATA[<img src='https://intersections.snnkv.com/pics/interpections.jpg' alt='' /><p>Разобрали FX микрофон Teenage Engineering. Он значительно более сложный, чем может показаться на первый взгляд. Энкодера на рычаге оказался неожиданностью.</p>]]></description>
   <pubDate>Sat, 05 Sep 2026 11:37:43 +0300</pubDate>
   <guid>https://informalcc.notion.site/Teenage-Engineering-Ting-FX-EP-2350-teardown-31a0865a6819806198e0db6eb796b304</guid>
-</item>
-<item>
-  <title>GitHub - tonku321/fn-lang-switcher: A minimal macOS app that switches your keyboard input source (language) when you press the FN key</title>
-  <link>https://github.com/tonku321/fn-lang-switcher</link>
-  <description><![CDATA[<img src='https://intersections.snnkv.com/pics/interpections.jpg' alt='' /><p>Нативная программа для MacOS на 40 строчек, которая мгновенно(!) переключает раскладку по кнопке Globe. Без задержек, отжиманий и всплывающих менюшек.</p>]]></description>
-  <pubDate>Fri, 04 Sep 2026 12:22:07 +0300</pubDate>
-  <guid>https://github.com/tonku321/fn-lang-switcher</guid>
 </item>
 </channel>
 </rss>
