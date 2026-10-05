@@ -5,7 +5,14 @@
   <description>Лента почти полезных ссылок. Я кликал и не пожалел.</description>
   <link>https://snnkv.com/</link>
 
-  <lastBuildDate>Sun, 04 Oct 2026 23:51:16 +0300</lastBuildDate>
+  <lastBuildDate>Mon, 05 Oct 2026 11:56:27 +0300</lastBuildDate>
+<item>
+  <title>Gboard くるくるバージョン</title>
+  <link>https://www.youtube.com/watch?v=DAn34l_YrUM</link>
+  <description><![CDATA[<img src='https://intersections.snnkv.com/pics/interpections.jpg' alt='' /><p>В японском гугле есть команда которая каждый год делает какую-то всратую клавиатуру. Интересно наблюдать как сильно у скучной корпорации различается маркетинг в США и Японии.</p>]]></description>
+  <pubDate>Mon, 05 Oct 2026 11:56:27 +0300</pubDate>
+  <guid>https://www.youtube.com/watch?v=DAn34l_YrUM</guid>
+</item>
 <item>
   <title>Temu&#x27;s two-minute launch sequence</title>
   <link>https://bsky.app/profile/cabel.panic.com/post/3mrkqzg6uks2y</link>
@@ -138,13 +145,6 @@
   <description><![CDATA[<img src='https://intersections.snnkv.com/pics/interpections.jpg' alt='' /><p>Мужчина говорит, что инструментов для разработки стало так много, что он устал добавлять их конфиги и сопутствующий мусор в gitignore и вместо этого теперь, наоборот, разрешает в нём файлы которые нужно коммитить. Прекрасно его понимаю.</p>]]></description>
   <pubDate>Mon, 07 Sep 2026 23:38:03 +0300</pubDate>
   <guid>https://packagemain.tech/p/gitignore-everything-by-default</guid>
-</item>
-<item>
-  <title>Ask HN: How do you manage skills files?</title>
-  <link>https://news.ycombinator.com/item?id=49589914</link>
-  <description><![CDATA[<img src='https://intersections.snnkv.com/pics/interpections.jpg' alt='' /><p>Кто-то спросил на HN «как вы управляете файлами навыков для LLM?». В комментариях война тех, кто считает навыки бесполезными с теми кто видит в них ценность. Из каментов легко понять что большинство технарей (я в их числе) даже примерно не понимают как работает технология которой они пользуются каждый день. Даже общего понятийного аппарата нет. Удивительные времена.</p>]]></description>
-  <pubDate>Mon, 07 Sep 2026 21:26:38 +0300</pubDate>
-  <guid>https://news.ycombinator.com/item?id=49589914</guid>
 </item>
 </channel>
 </rss>
