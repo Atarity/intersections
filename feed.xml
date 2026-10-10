@@ -5,7 +5,14 @@
   <description>Лента почти полезных ссылок. Я кликал и не пожалел.</description>
   <link>https://snnkv.com/</link>
 
-  <lastBuildDate>Mon, 05 Oct 2026 11:56:27 +0300</lastBuildDate>
+  <lastBuildDate>Sat, 10 Oct 2026 22:09:09 +0300</lastBuildDate>
+<item>
+  <title>We Went Inside teenage engineering’s Stockholm HQ</title>
+  <link>https://www.youtube.com/watch?v=SBZfSM6_E60</link>
+  <description><![CDATA[<img src='https://intersections.snnkv.com/pics/interpections.jpg' alt='' /><p>Интервью с CTO Teenage Engineering. Неглубокое, но всё равно интересное. Говорит что Новые KO изначально планировались как open-source девайсы на RP2040, но эти контроллеры не пролезли по потреблению.</p>]]></description>
+  <pubDate>Sat, 10 Oct 2026 22:09:09 +0300</pubDate>
+  <guid>https://www.youtube.com/watch?v=SBZfSM6_E60</guid>
+</item>
 <item>
   <title>Gboard くるくるバージョン</title>
   <link>https://www.youtube.com/watch?v=DAn34l_YrUM</link>
@@ -138,13 +145,6 @@
   <description><![CDATA[<img src='https://intersections.snnkv.com/pics/interpections.jpg' alt='' /><p>Экспертиза в теме может выводить диалоги с LLM (на эту тему) к совершенно запредельному соотношению сигнал/шум. Промпты из одного предложения. Ответы короткие и совсем без воды.</p>]]></description>
   <pubDate>Wed, 09 Sep 2026 23:47:24 +0300</pubDate>
   <guid>https://www.seangoedecke.com/llms-reward-expertise/</guid>
-</item>
-<item>
-  <title>.gitignore everything by default - by Alex Pliutau</title>
-  <link>https://packagemain.tech/p/gitignore-everything-by-default</link>
-  <description><![CDATA[<img src='https://intersections.snnkv.com/pics/interpections.jpg' alt='' /><p>Мужчина говорит, что инструментов для разработки стало так много, что он устал добавлять их конфиги и сопутствующий мусор в gitignore и вместо этого теперь, наоборот, разрешает в нём файлы которые нужно коммитить. Прекрасно его понимаю.</p>]]></description>
-  <pubDate>Mon, 07 Sep 2026 23:38:03 +0300</pubDate>
-  <guid>https://packagemain.tech/p/gitignore-everything-by-default</guid>
 </item>
 </channel>
 </rss>
