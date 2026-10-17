@@ -5,7 +5,14 @@
   <description>Лента почти полезных ссылок. Я кликал и не пожалел.</description>
   <link>https://snnkv.com/</link>
 
-  <lastBuildDate>Sat, 17 Oct 2026 16:30:12 +0300</lastBuildDate>
+  <lastBuildDate>Sat, 17 Oct 2026 16:36:02 +0300</lastBuildDate>
+<item>
+  <title>I Can&#x27;t BELIEVE They Let Me in Here! Equinix DC</title>
+  <link>https://www.youtube.com/watch?v=wumluVRmxyA</link>
+  <description><![CDATA[<img src='https://intersections.snnkv.com/pics/interpections.jpg' alt='' /><p>И тут же полная противоположность Хецнеру — датацентр в котором хостится биржа и трейдеры. С закрытой комнатой где хранятся калиброванные по длине катушки оптоволокна чтобы скорость и пинг у всех был идентичный.</p>]]></description>
+  <pubDate>Sat, 17 Oct 2026 16:36:02 +0300</pubDate>
+  <guid>https://www.youtube.com/watch?v=wumluVRmxyA</guid>
+</item>
 <item>
   <title>This DIY Datacenter is NUTS - Hetzner Tour</title>
   <link>https://www.youtube.com/watch?v=MQeJYEN_lrg</link>
@@ -138,13 +145,6 @@
   <description><![CDATA[<img src='https://intersections.snnkv.com/pics/interpections.jpg' alt='' /><p>“Everyone wants Apple’s results. But very few companies want Apple’s process.”</p>]]></description>
   <pubDate>Fri, 25 Sep 2026 15:32:43 +0300</pubDate>
   <guid>https://www.linkedin.com/feed/update/urn:li:activity:7507846115665571841/</guid>
-</item>
-<item>
-  <title>Game UI Database 2.0</title>
-  <link>https://www.gameuidatabase.com</link>
-  <description><![CDATA[<img src='https://intersections.snnkv.com/pics/interpections.jpg' alt='' /><p>UI экраны из почти 2 тыс. игр разных эпох и с разных платформ. Аккуратно отсортированные.</p>]]></description>
-  <pubDate>Wed, 16 Sep 2026 15:46:19 +0300</pubDate>
-  <guid>https://www.gameuidatabase.com</guid>
 </item>
 </channel>
 </rss>
