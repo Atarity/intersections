@@ -5,7 +5,14 @@
   <description>Лента почти полезных ссылок. Я кликал и не пожалел.</description>
   <link>https://snnkv.com/</link>
 
-  <lastBuildDate>Thu, 29 Oct 2026 19:02:42 +0200</lastBuildDate>
+  <lastBuildDate>Tue, 03 Nov 2026 13:34:24 +0200</lastBuildDate>
+<item>
+  <title>I discovered a sound that leaks your exact location (and it&#x27;s everywhere)</title>
+  <link>https://www.youtube.com/watch?v=UytYrhYLOKI</link>
+  <description><![CDATA[<img src='https://intersections.snnkv.com/pics/interpections.jpg' alt='' /><p>Тут утверждают что многие видео снятые на открытом воздухе можно очень точно геолоцировать через звуки пролетающих поблизости самолётов (которые не распознаёт ухо, но видно в гистограмме), а потом просто прочесать базы ads-b сигналов на совпадения по времени. 🤯</p>]]></description>
+  <pubDate>Tue, 03 Nov 2026 13:34:24 +0200</pubDate>
+  <guid>https://www.youtube.com/watch?v=UytYrhYLOKI</guid>
+</item>
 <item>
   <title>An Electric Screwdriver That Identifies Which Bit You Need</title>
   <link>https://www.core77.com/posts/145760/An-Electric-Screwdriver-That-Identifies-Which-Bit-You-Need</link>
@@ -138,13 +145,6 @@
   <description><![CDATA[<img src='https://intersections.snnkv.com/pics/interpections.jpg' alt='' /><p>Если свежая фотка Фреда Дёрста не помогла вам принять вашу старость, то эта точно поможет 😁</p>]]></description>
   <pubDate>Sat, 03 Oct 2026 12:41:50 +0300</pubDate>
   <guid>https://www.joeydevilla.com/2026/09/29/this-is-the-photo-that-made-me-accept-that-im-old/</guid>
-</item>
-<item>
-  <title>Before pixels: Modular industrial dashboards</title>
-  <link>https://unsung.aresluna.org/before-pixels-modular-industrial-dashboards/</link>
-  <description><![CDATA[<img src='https://intersections.snnkv.com/pics/interpections.jpg' alt='' /><p></p>]]></description>
-  <pubDate>Thu, 01 Oct 2026 22:56:05 +0300</pubDate>
-  <guid>https://unsung.aresluna.org/before-pixels-modular-industrial-dashboards/</guid>
 </item>
 </channel>
 </rss>
